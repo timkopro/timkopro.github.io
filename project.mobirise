@@ -12,9 +12,9 @@
         "infoColor": "#f3c649",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Open Sans",
-        "textFont": "Lora",
+        "titleFont": "Roboto",
+        "subtitleFont": "Roboto",
+        "textFont": "Roboto",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
@@ -64,7 +64,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "timko production",
+          "title": "<span style=\"font-weight: normal;\">timko production</span>",
           "text": "твой ориентир в мире современной музыки<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features1-8\" data-toolbar=\"-mbrBtnMove\">АФИША СПБ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box8-9\" data-toolbar=\"-mbrBtnMove\">СВЕЖИЕ РЕЛИЗЫ</a>",
           "_styles": {
@@ -72,10 +72,11 @@
               "color": "#de5c00",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "60px"
+              "font-size": "36px"
             },
             ".mbr-section-lead": {
-              "color": "#de5c00"
+              "color": "#de5c00",
+              "font-size": "18px"
             }
           }
         },
