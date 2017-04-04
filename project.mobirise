@@ -12,9 +12,9 @@
         "infoColor": "#f3c649",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Roboto",
-        "subtitleFont": "Roboto",
-        "textFont": "Roboto",
+        "titleFont": "Open Sans",
+        "subtitleFont": "Open Sans",
+        "textFont": "Open Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -165,7 +165,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-timko-production-horizontal-alpha-438x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-timko-production-horizontal-alpha-white-438x128.png",
               "height": 128,
               "alt": "Timko Production",
               "link": "https://timko.pro",
@@ -187,7 +187,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "48px"
+              "font-size": "46px"
             },
             ".lead P": {
               "text-align": "center"
@@ -221,7 +221,7 @@
             "showButton": false
           },
           "title": "White Lies (UK)<br>",
-          "text": "<h3>4/20 A2</h3>",
+          "text": "<h3><span style=\"font-size: 2rem; line-height: 1.1;\">4/20 A2</span><br></h3>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
