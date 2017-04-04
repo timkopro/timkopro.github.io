@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "raised-by-swans.html",
+    "currentPage": "index.html",
     "name": "timko.pro",
     "theme": {
       "name": "mobirise3",
@@ -513,11 +513,11 @@
             "showSubTitle": true
           },
           "title": "Оставьте Свой Email",
-          "subtitle": "Мы сообщим Вам всю необходимую информацию, как только дата концерта будет зафиксирована.",
+          "subtitle": "Мы вышлем Вам всю необходимую информацию, как только дата концерта Raised by Swans в СПб будет зафиксирована.",
           "form": {
             "action": "live@timko.pro",
             "alerts": {
-              "success": "Большое спасибо! Мы обязательно вышлем Вам подробную информацию чуть позже."
+              "success": "Большое спасибо! Мы обязательно вышлем Вам подробную информацию о концерте Raised By Swans в СПб чуть позже."
             },
             "fields": {
               "email": {
