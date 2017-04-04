@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "raised-by-swans.html",
+    "currentPage": "index.html",
     "name": "timko.pro",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 33,
+    "uniqCompNum": 34,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128-1.png",
     "noImageResize": ""
@@ -276,28 +276,19 @@
           "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F300350274&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
         },
         {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-w",
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-x",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
@@ -307,7 +298,12 @@
             "vkontakte": true,
             "odnoklassniki": true
           },
-          "text": "Поделиться!"
+          "text": "Поделиться!",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
         }
       ]
     },
@@ -556,7 +552,7 @@
           "form": {
             "action": "live@timko.pro",
             "alerts": {
-              "success": "Большое спасибо! Мы обязательно вышлем Вам подробную информацию о концерте Raised By Swans в СПб чуть позже."
+              "success": "Большое спасибо!\nПожалуйста, поделитесь этой страницей со своими друзьями, используя кнопки соц. сетей внизу страницы."
             },
             "fields": {
               "email": {
@@ -576,11 +572,11 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
