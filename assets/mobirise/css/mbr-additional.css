@@ -513,6 +513,13 @@ h6,
 #msg-box8-9 .lead H3 {
   color: #cccccc;
 }
+#social-buttons3-w .mbr-section-title,
+#social-buttons3-w .btn-social {
+  color: #fff;
+}
+#social-buttons3-w .mbr-section-title {
+  font-size: 36px;
+}
 
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
