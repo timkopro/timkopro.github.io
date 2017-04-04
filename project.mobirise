@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 18,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -42,6 +42,27 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "46px"
+            },
+            ".mbr-section-lead": {
+              "color": "#cccccc",
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#efefef",
+              "font-size": "46px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
           "_anchor": "header4-5",
           "_params": {
             "parallax": true,
@@ -64,27 +85,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\"><br></span>timko production<br>",
-          "text": "живая музыка в Санкт-Петербурге",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features1-8\" data-toolbar=\"-mbrBtnMove\">white lies 4/20</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "36px"
-            },
-            ".mbr-section-lead": {
-              "color": "#cccccc",
-              "font-size": "22px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef",
-              "font-size": "18px"
-            }
-          }
+          "title": "<span style=\"color: rgb(255, 255, 255); line-height: 1.1;\">timko production</span><br>",
+          "text": "<span style=\"line-height: 1.5;\"><i>правильная живая музыка в Санкт-Петербурге</i></span><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box8-9\" data-toolbar=\"-mbrBtnMove\">WHITE LIES<br>20 апр (чт)<br></a> "
         },
         {
           "_styles": {
@@ -134,7 +137,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#495687!important"
             }
           },
           "_tags": [
@@ -176,7 +179,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-8\" aria-expanded=\"false\">АФИША СПБ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-9\" aria-expanded=\"false\">СВЕЖИЕ РЕЛИЗЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:live@timko.pro\" aria-expanded=\"false\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box8-9\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПБ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-9\">White Lies 20.04 (чт)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -245,20 +248,30 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-e",
+          "_name": "content1",
+          "_anchor": "content1-h",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Британская рок-группа White Lies выступит в Санкт-Петербурге 20 апреля.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Коллектив представит поклонникам свой новый, четвертый альбом под названием Friends. Концерт пройдет на площадке A2 Green Concert.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Билеты на мероприятие можно приобрести на сайте клуба, а также в кассах по адресу Проспект Медиков, дом 3.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Трио White Lies было основано в 2007 году в Лондоне Гарри Маквеем, Чарльзом Кейвом и Джеком Лоуренсом-Брауном. В 2009-м группа была номинирована на премию MTV Europe Music Awards в категории «Прорыв года». Рокеры выпустили пластинку Friends в октябре 2016-го.</span></p></blockquote>",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          }
+          "text": "Британская рок-группа White Lies выступит в Санкт-Петербурге 20 апреля. Коллектив представит поклонникам свой новый, четвертый альбом под названием Friends. Концерт пройдет на площадке A2 Green Concert.<div>Билеты на мероприятие можно приобрести на сайте клуба, а также в кассах по адресу Проспект Медиков, дом 3.</div><div><br></div><div>Трио White Lies было основано в 2007 году в Лондоне Гарри Маквеем, Чарльзом Кейвом и Джеком Лоуренсом-Брауном. В 2009-м группа была номинирована на премию MTV Europe Music Awards в категории «Прорыв года». Рокеры выпустили пластинку Friends в октябре 2016-го.</div>"
+        },
+        {
+          "_inherit": "soundcloud1",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F307483475",
+          "_name": "soundcloud2",
+          "_anchor": "soundcloud2-g",
+          "_params": {
+            "sound": "https://soundcloud.com/whitelies/friends",
+            "autoplay": false,
+            "fullWidth": true
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F307483475&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
         }
       ]
     }
