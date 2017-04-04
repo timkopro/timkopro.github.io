@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "raised-by-swans.html",
     "name": "timko.pro",
     "theme": {
       "name": "mobirise3",
@@ -9,7 +9,7 @@
         "primaryColor": "#495687",
         "secondaryColor": "#ffffff",
         "successColor": "#90a878",
-        "infoColor": "#f3c649",
+        "infoColor": "#65cbff",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Open Sans",
@@ -413,7 +413,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -422,7 +422,7 @@
           },
           "title": "Raised By Swans<br>",
           "text": "<br>Отличные новости!&nbsp;<span style=\"line-height: 1.5;\">Осенью 2017 впервые в Санкт-Петербурге состоится концерт замечательного канадского исполнителя Эрика Хоудена.</span><br><br>Оставьте свой email и мы обязательно свяжемся с Вами, как только дата концерта будет зафиксирована.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"raised-by-swans.html#form2-o\" data-toolbar=\"-mbrBtnMove\">Я ХОЧУ ПОЙТИ</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"raised-by-swans.html#msg-box7-n\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"raised-by-swans.html#form2-o\" data-toolbar=\"-mbrBtnMove\">Я ХОЧУ ПОЙТИ</a>",
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "24px"
