@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -64,9 +64,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "timko production",
+          "title": "<span style=\"font-weight: normal;\"><br></span>timko production<br>",
           "text": "живая музыка в Санкт-Петербурге",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features1-8\" data-toolbar=\"-mbrBtnMove\">АФИША СПБ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box8-9\" data-toolbar=\"-mbrBtnMove\">СВЕЖИЕ РЕЛИЗЫ</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features1-8\" data-toolbar=\"-mbrBtnMove\">white lies 4/20</a> ",
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
@@ -81,7 +81,8 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-size": "18px"
             }
           }
         },
@@ -178,128 +179,18 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-8\" aria-expanded=\"false\">АФИША СПБ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-9\" aria-expanded=\"false\">СВЕЖИЕ РЕЛИЗЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:live@timko.pro\" aria-expanded=\"false\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-8",
-          "_params": {
-            "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/raised-by-swans-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Raised By Swans",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Raised By Swans",
-          "subtitle1": "17 сентября",
-          "caption1": "<b>Place</b><br>СПб, ул. Маршала Говорова, 47",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">БИЛЕТЫ</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/ryksopp-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Röyksopp",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Röyksopp",
-          "subtitle2": "18 июня",
-          "caption2": "<b>A2</b><br>СПб, пр. Медиков, 3<b><br></b>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">БИЛЕТЫ</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Coming soon",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".lead P": {
+              "text-align": "center"
+            },
+            ".lead H3": {
+              "color": "#cccccc"
             }
           },
           "_tags": [
@@ -312,7 +203,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/white-lies-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -326,29 +217,9 @@
             "showText": true,
             "showButton": false
           },
-          "title": "СВЕЖИЕ РЕЛИЗЫ",
-          "text": "<p>Здесь мы будем публиковать информацию о новых альбомах наиболее интересных исполнителей.</p>",
+          "title": "White Lies (UK)<br>",
+          "text": "<h3>4/20 A2</h3>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-a",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Coming soon...</p>",
-          "text2": "<p>Coming soon...</p>",
-          "text3": "<p>Coming soon...</p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
         },
         {
           "_tags": [
@@ -369,6 +240,25 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Timko Production."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Британская рок-группа White Lies выступит в Санкт-Петербурге 20 апреля.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Коллектив представит поклонникам свой новый, четвертый альбом под названием Friends. Концерт пройдет на площадке A2 Green Concert.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Билеты на мероприятие можно приобрести на сайте клуба, а также в кассах по адресу Проспект Медиков, дом 3.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Трио White Lies было основано в 2007 году в Лондоне Гарри Маквеем, Чарльзом Кейвом и Джеком Лоуренсом-Брауном. В 2009-м группа была номинирована на премию MTV Europe Music Awards в категории «Прорыв года». Рокеры выпустили пластинку Friends в октябре 2016-го.</span></p></blockquote>",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         }
       ]
     }

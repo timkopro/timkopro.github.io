@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -434,6 +435,7 @@ h6,
 #header4-5 .mbr-section-title SPAN {
   font-family: 'Open Sans', sans-serif;
   color: #efefef;
+  font-size: 18px;
 }
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
@@ -497,13 +499,19 @@ h6,
 #menu-6 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#features1-8 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
 #msg-box8-9 .mbr-section-title,
 #msg-box8-9 p {
   color: #fff;
 }
-#content7-a P {
+#msg-box8-9 .mbr-section-title {
+  font-size: 48px;
+}
+#msg-box8-9 .lead P {
   text-align: center;
+}
+#msg-box8-9 .lead H3 {
+  color: #cccccc;
+}
+#content2-e BLOCKQUOTE {
+  font-family: 'Open Sans', sans-serif;
 }
