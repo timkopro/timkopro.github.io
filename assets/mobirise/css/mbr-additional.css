@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -422,13 +423,17 @@ h6,
   opacity: 0 !important;
 }
 #header4-5 .mbr-section-title {
-  color: #de5c00;
+  color: #ffffff;
   font-family: 'Open Sans', sans-serif;
   font-size: 36px;
 }
 #header4-5 .mbr-section-lead {
-  color: #de5c00;
-  font-size: 18px;
+  color: #cccccc;
+  font-size: 22px;
+}
+#header4-5 .mbr-section-title SPAN {
+  font-family: 'Open Sans', sans-serif;
+  color: #efefef;
 }
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;

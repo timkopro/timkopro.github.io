@@ -64,19 +64,24 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">timko production</span>",
-          "text": "твой ориентир в мире современной музыки<br>",
+          "title": "timko production",
+          "text": "живая музыка в Санкт-Петербурге",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features1-8\" data-toolbar=\"-mbrBtnMove\">АФИША СПБ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box8-9\" data-toolbar=\"-mbrBtnMove\">СВЕЖИЕ РЕЛИЗЫ</a>",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#de5c00",
+              "color": "#ffffff",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "36px"
             },
             ".mbr-section-lead": {
-              "color": "#de5c00",
-              "font-size": "18px"
+              "color": "#cccccc",
+              "font-size": "22px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#efefef"
             }
           }
         },
