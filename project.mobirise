@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "raised-by-swans.html",
-    "name": "My Site",
+    "currentPage": "index.html",
+    "name": "timko.pro",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,14 +23,16 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 25,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Timko Production Правильная Живая Музыка СПб",
+        "meta_descr": "Timko Production Правильная Живая Музыка в городе Санкт- Петербург",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
