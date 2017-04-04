@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "raised-by-swans.html",
+    "currentPage": "index.html",
     "name": "timko.pro",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Timko Production Правильная Живая Музыка СПб",
+        "title": "Timko Production - Правильная Живая Музыка в СПб www.timko.pro",
         "meta_descr": "Timko Production Правильная Живая Музыка в городе Санкт- Петербург",
         "header_custom": "",
         "footer_custom": "",
@@ -279,7 +279,7 @@
     },
     "raised-by-swans.html": {
       "settings": {
-        "title": "Raised By Swans концерт в СПб",
+        "title": "Raised By Swans (Канада) концерт в СПб - Timko Production www.timko.pro",
         "meta_descr": "Концерт канадской группы Raised By Swans в СПб"
       },
       "components": [
@@ -421,7 +421,7 @@
             "showButtons": true
           },
           "title": "Raised By Swans<br>",
-          "text": "<br>Отличные новости!&nbsp;<span style=\"line-height: 1.5;\">Осенью 2017 впервые в Санкт-Петербурге состоится концерт замечательного канадского исполнителя Эрика Хоудена (Raised By Swans).</span><br><br>Оставьте свой email и мы обязательно свяжемся с Вами, как только дата концерта будет зафиксирована.<br>",
+          "text": "<br>Отличные новости!&nbsp;<span style=\"line-height: 1.5;\">Осенью 2017 впервые в Санкт-Петербурге состоится концерт замечательного канадского исполнителя Эрика Хоудена (Raised By Swans).</span><br><br>Оставьте свой email, и мы обязательно свяжемся с Вами, как только дата концерта будет зафиксирована.<br>",
           "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"raised-by-swans.html#msg-box7-n\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"raised-by-swans.html#form2-o\" data-toolbar=\"-mbrBtnMove\">Я ХОЧУ ПОЙТИ</a>",
           "_styles": {
             ".mbr-section-lead": {
@@ -482,7 +482,7 @@
           },
           "title": "Raised by Swans &nbsp;",
           "text": "это музыкальный псевдоним канадского сольного исполнителя Эрика Хоудена.<br><br>Автор-исполнитель и мультиинструменталист, Эрик написал, записал и выпустил три полнометражных независимых альбома.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"raised-by-swans.html#form2-o\" data-toolbar=\"-mbrBtnMove\">Я ХОЧУ ПОЙТИ</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://music.yandex.ru/artist/1231334\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПОСЛУШАТЬ</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"raised-by-swans.html#form2-o\" data-toolbar=\"-mbrBtnMove\">Я ХОЧУ ПОЙТИ</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://music.yandex.ru/artist/1231334\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПОСЛУШАТЬ (ЯНДЕКС МУЗЫКА)</a>"
         },
         {
           "_styles": {
