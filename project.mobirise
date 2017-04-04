@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "raised-by-swans.html",
     "name": "timko.pro",
     "theme": {
       "name": "mobirise3",
@@ -487,10 +487,15 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "36px"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#a0a0a0",
+              "font-size": "16px"
+            },
+            ".btn": {
+              "font-size": "10px"
             }
           },
           "_tags": [
