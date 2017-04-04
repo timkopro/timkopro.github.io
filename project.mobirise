@@ -142,7 +142,7 @@
               "color": "#495687!important"
             },
             ".btn": {
-              "font-size": "14px"
+              "font-size": "12px"
             }
           },
           "_tags": [
@@ -367,7 +367,7 @@
               "color": "#495687!important"
             },
             ".btn": {
-              "font-size": "14px"
+              "font-size": "12px"
             }
           },
           "_tags": [
