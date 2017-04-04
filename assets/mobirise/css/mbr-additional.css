@@ -457,11 +457,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #menu-6 .link {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 #menu-6 .dropdown-item,
 #menu-6 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.866rem;
 }
 #menu-6 .link:hover,
 #menu-6 .dropdown-item:hover,
@@ -539,11 +539,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #menu-j .link {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 #menu-j .dropdown-item,
 #menu-j .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.866rem;
 }
 #menu-j .link:hover,
 #menu-j .dropdown-item:hover,
