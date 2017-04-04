@@ -169,8 +169,8 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-timko-production-horizontal-alpha-white-438x128.png",
               "height": 128,
-              "alt": "Timko Production",
-              "link": "https://timko.pro",
+              "alt": "Timko Production - Правильная Живая Музыка в СПб",
+              "link": "http://timko.pro",
               "title": "www.timko.pro",
               "linkInNewWindow": false
             },
@@ -395,8 +395,8 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-timko-production-horizontal-alpha-white-438x128.png",
               "height": 128,
-              "alt": "Timko Production",
-              "link": "https://timko.pro",
+              "alt": "Timko Production - Правильная Живая Музыка в СПб",
+              "link": "http://timko.pro",
               "title": "www.timko.pro",
               "linkInNewWindow": false
             },
