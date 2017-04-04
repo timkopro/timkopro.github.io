@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 35,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128-1.png",
     "noImageResize": ""
@@ -283,6 +283,11 @@
             "Theme"
           ],
           "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "social-buttons1-x",
           "_params": {
             "paddingTop": "3",
@@ -301,12 +306,7 @@
             "vkontakte": true,
             "odnoklassniki": true
           },
-          "text": "Поделиться!",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          }
+          "text": "Поделиться!"
         }
       ]
     },
@@ -436,6 +436,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "24px"
+            }
+          },
           "_anchor": "header1-l",
           "_params": {
             "parallax": true,
@@ -458,12 +463,7 @@
           },
           "title": "Raised By Swans<br>",
           "text": "<br>Отличные новости!&nbsp;<span style=\"line-height: 1.5;\">Осенью 2017 впервые в Санкт-Петербурге состоится концерт замечательного канадского исполнителя Эрика Хоудена (Raised By Swans).</span><br><br>Оставьте свой email, и мы обязательно свяжемся с Вами, как только дата концерта будет зафиксирована.<br>",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"raised-by-swans.html#msg-box7-n\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"raised-by-swans.html#form2-o\" data-toolbar=\"-mbrBtnMove\">Я ХОЧУ ПОЙТИ</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "24px"
-            }
-          }
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"raised-by-swans.html#msg-box7-n\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"raised-by-swans.html#form2-o\" data-toolbar=\"-mbrBtnMove\">Я ХОЧУ ПОЙТИ</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -574,6 +574,11 @@
             "Theme"
           ],
           "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "25px"
+            }
+          },
           "_anchor": "social-buttons1-q",
           "_params": {
             "paddingTop": "3",
@@ -592,12 +597,7 @@
             "vkontakte": true,
             "odnoklassniki": true
           },
-          "text": "Пожалуйста, поделитесь этой страницей с друзьями!",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "25px"
-            }
-          }
+          "text": "Пожалуйста, поделитесь этой страницей с друзьями!"
         }
       ]
     }
