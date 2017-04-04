@@ -592,6 +592,12 @@ h6,
 #msg-box7-n .lead p {
   color: #fff;
 }
+#msg-box7-n H3 {
+  text-align: right;
+}
+#msg-box7-n SPAN {
+  text-align: right;
+}
 #form2-o .mbr-section-title {
   color: #fff;
   font-size: 36px;

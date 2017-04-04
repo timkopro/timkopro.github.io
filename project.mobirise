@@ -470,6 +470,12 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "H3": {
+              "text-align": "right"
+            },
+            "SPAN": {
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -516,7 +522,7 @@
               "size": 250
             }
           },
-          "title": "Raised by Swans &nbsp;",
+          "title": "<span style=\"font-size: 3rem; line-height: 1.1;\">Raised by Swans</span><br>",
           "text": "это музыкальный псевдоним канадского сольного исполнителя Эрика Хоудена.<br><br>Автор-исполнитель и мультиинструменталист, Эрик написал, записал и выпустил три полнометражных независимых альбома.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"raised-by-swans.html#form2-o\" data-toolbar=\"-mbrBtnMove\">Я ХОЧУ ПОЙТИ</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://music.yandex.ru/artist/1231334\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПОСЛУШАТЬ (ЯНДЕКС МУЗЫКА)</a>"
         },
