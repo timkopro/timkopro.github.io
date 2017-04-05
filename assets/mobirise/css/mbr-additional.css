@@ -439,6 +439,20 @@ h6,
 #header4-5 .btn {
   font-size: 14px;
 }
+#content5-1a .mbr-section-title,
+#content5-1a p {
+  color: #fff;
+}
+#content5-1a .mbr-section-title {
+  text-align: center;
+  font-size: 46px;
+}
+#content5-1a .mbr-section-title SPAN {
+  font-size: 30px;
+}
+#content5-1a P {
+  text-align: center;
+}
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -504,18 +518,8 @@ h6,
 #menu-6 .btn {
   font-size: 12px;
 }
-#msg-box8-9 .mbr-section-title,
-#msg-box8-9 p {
-  color: #fff;
-}
-#msg-box8-9 .mbr-section-title {
-  font-size: 46px;
-}
-#msg-box8-9 .lead P {
-  text-align: center;
-}
-#msg-box8-9 .lead H3 {
-  color: #cccccc;
+#content2-14 BLOCKQUOTE {
+  color: #efefef;
 }
 #content5-16 .mbr-section-title,
 #content5-16 p {
@@ -523,9 +527,10 @@ h6,
 }
 #content5-16 .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
 #content5-16 .mbr-section-title I {
-  text-align: center;
+  text-align: right;
 }
 #msg-box5-13 P {
   text-align: left;
@@ -547,6 +552,10 @@ h6,
 }
 #content5-19 .mbr-section-title,
 #content5-19 p {
+  color: #fff;
+}
+#content5-1b .mbr-section-title,
+#content5-1b p {
   color: #fff;
 }
 

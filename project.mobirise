@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 46,
+    "uniqCompNum": 48,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128-3.png",
     "noImageResize": ""
@@ -89,7 +89,49 @@
           },
           "title": "<span style=\"color: rgb(255, 255, 255); line-height: 1.1;\">timko production</span><br>",
           "text": "<span style=\"line-height: 1.5;\">правильная живая музыка в Санкт-Петербурге</span><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box8-9\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CAN)<br>осень 2017<br></a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-1a\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CAN)<br>осень 2017<br></a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "46px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/white-lies-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "White Lies (UK)<br><span style=\"font-weight: normal;\">20.04 A2</span>",
+          "caption": "<p>Британская рок-группа White Lies выступит в Санкт-Петербурге 20 апреля.<br>Коллектив представит поклонникам свой новый, четвертый альбом Friends.<br>Концерт пройдет на площадке A2 Green Concert.</p>"
         },
         {
           "_styles": {
@@ -187,49 +229,6 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-9\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
-            },
-            ".lead P": {
-              "text-align": "center"
-            },
-            ".lead H3": {
-              "color": "#cccccc"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-9",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/white-lies-2000x1333.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "White Lies (UK)<br>",
-          "text": "<h3><span style=\"font-size: 2rem; line-height: 1.1;\">4/20 A2</span><br></h3>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -253,27 +252,19 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-h",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "Британская рок-группа White Lies выступит в Санкт-Петербурге 20 апреля. Коллектив представит поклонникам свой новый, четвертый альбом Friends. Концерт пройдет на площадке A2 Green Concert."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "content2",
           "_anchor": "content2-14",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#232323"
           },
-          "text": "<blockquote>Трио White Lies было основано в 2007 году в Лондоне Гарри Маквеем, Чарльзом Кейвом и Джеком Лоуренсом-Брауном. В сентябре 2009 группа выступила на разогреве Coldplay перед наполовину пустым залом, но была неплохо принята как слушателями, так и критиками. В тот же год группа в категории «Прорыв года» была номинирована на премию MTV Europe Music Awards.</blockquote>"
+          "text": "<blockquote><b>Трио White Lies было основано в 2007 году в Лондоне Гарри Маквеем, Чарльзом Кейвом и Джеком Лоуренсом-Брауном. В сентябре 2009 группа выступила на разогреве Coldplay перед наполовину пустым залом, но была неплохо принята как слушателями, так и критиками. В тот же год группа в категории «Прорыв года» была номинирована на премию MTV Europe Music Awards.</b></blockquote>",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_styles": {
@@ -282,10 +273,11 @@
             },
             ".mbr-section-title": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "center"
             },
             ".mbr-section-title I": {
-              "text-align": "center"
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -311,8 +303,8 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "<i>♀</i>",
-          "caption": "<p>С момента выхода дебютного альбома пор прошло 8 лет. Некоторые вещи становятся лучше с годами, например, вино и сыр. Их вкус становится ярче и насыщеннее. Как и чувственность текстов White Lies.</p><p>В апреле этого года трио из восточного Лондона презентует новую пластинку “Friends” на сцене А2. Мы возлагаем большие надежды на этот концерт, ведь с выходом альбома можно смело заявлять: группа выработала собственный стиль, который зародился на предыдущей пластинке и теперь закреплен на новом альбоме.</p><p>Помимо индивидуальности, присущей альбому “Friends”, он еще и окутан дурманящей реалией, которая близка каждому из нас. Речь идет не о несчастной любви или предательстве, крахе веры в себя, а о том, как мы теряем друзей. Женитьба, дети, карьера, переезд в другие города - жизненные ситуации, с которыми мы сталкиваемся взрослея и которые разводят нас с теми, о ком думалось «не разлей вода». Из-за постоянной занятости мы реже общаемся с друзьями. Однако стоит помнить, что можно не видеться месяцами и все равно поддерживать близкие отношениями. Альбом наполнен подобными мыслями, эмоциями, надеждами, потрясениями. Очарования сменяются разочарованиями, любовь страхами, дружба до гроба – расставаниями. И так до бесконечности.</p><p>Таким образом, в текстах White Lies каждый найдет себя. Да и классическая английская меланхолия всегда придется по душе. Альбом очень теплый, трогательный, душевный. Надеемся, таким будет и концерт в А2.</p>"
+          "title": "♀",
+          "caption": "<p><b>С момента выхода дебютного альбома пор прошло 8 лет. Некоторые вещи становятся лучше с годами, например, вино и сыр. Их вкус становится ярче и насыщеннее. Как и чувственность текстов White Lies.</b></p><p><b>В апреле этого года трио из восточного Лондона презентует новую пластинку “Friends” на сцене А2. Мы возлагаем большие надежды на этот концерт, ведь с выходом альбома можно смело заявлять: группа выработала собственный стиль, который зародился на предыдущей пластинке и теперь закреплен на новом альбоме.</b></p><p><b>Помимо индивидуальности, присущей альбому “Friends”, он еще и окутан дурманящей реалией, которая близка каждому из нас. Речь идет не о несчастной любви или предательстве, крахе веры в себя, а о том, как мы теряем друзей. Женитьба, дети, карьера, переезд в другие города - жизненные ситуации, с которыми мы сталкиваемся взрослея и которые разводят нас с теми, о ком думалось «не разлей вода». Из-за постоянной занятости мы реже общаемся с друзьями. Однако стоит помнить, что можно не видеться месяцами и все равно поддерживать близкие отношениями. Альбом наполнен подобными мыслями, эмоциями, надеждами, потрясениями. Очарования сменяются разочарованиями, любовь страхами, дружба до гроба – расставаниями. И так до бесконечности.</b></p><p><b>Таким образом, в текстах White Lies каждый найдет себя. Да и классическая английская меланхолия всегда придется по душе. Альбом очень теплый, трогательный, душевный. Надеемся, таким будет и концерт в А2.</b></p>"
         },
         {
           "_tags": [
@@ -359,8 +351,8 @@
               "size": 0
             }
           },
-          "title": "♂",
-          "text": "Делимся впечатлениями от новой пластинки Friends.<br>Альбом из 10 композиций открывает в меру динамичная и одновременно мелодичная Take It Out on Me. &nbsp;Сразу можно отметить, что звучание группы стало гораздо легче, чем во времена Too Lose My Life. Львиную долю саунда занимают синты, что ожидаемо после Big TV. White   Lies  удачно уловили нынешнюю тенденцию музыкантов звучать в духе 80-ых. Теперь это скорее синти-поп, а не альтернативный пост-панк.<br>",
+          "title": "<i>♂</i>",
+          "text": "<b>Делимся впечатлениями от новой пластинки Friends.<br>Альбом из 10 композиций открывает в меру динамичная и одновременно мелодичная Take It Out on Me. &nbsp;Сразу можно отметить, что звучание группы стало гораздо легче, чем во времена Too Lose My Life. Львиную долю саунда занимают синты, что ожидаемо после Big TV. White   Lies  удачно уловили нынешнюю тенденцию музыкантов звучать в духе 80-ых. Теперь это скорее синти-поп, а не альтернативный пост-панк.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
@@ -406,7 +398,7 @@
             "showCaption": true
           },
           "title": "",
-          "caption": "<p>Одной из сильных сторон работы (да и группы в целом) является концептуальность: альбом звучит холистично, а песни хорошо сбалансированы и выстроены. Мощные Morning in LA и Hold Back Your Love, атмосферная Swing и заключительная баллада Don't Fall - в трек-листе альбома всё логично.&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Пластинка слушается легко, ребята определённо хотели записать поп-альбом без претензий, и они это сделали. Слушая Friends, понимаешь, что не хватает чего-то нового и смелого: альбом кажется логичным продолжением предыдущих работ и не ставит задач покорить новые вершины. А потому лишь 11 место в родном чарте UK Albums против 4-ого с Big TV.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Если Вы слушаете инди или поп-музыку, если Вам близки такие исполнители, как Interpol, Editors, Arcade Fire, или если Вам просто интересна качественная живая музыка, настоятельно рекомендуем к посещению!</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">А для тех, кто уже решил идти на концерт, напомню,<br></span><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">20 апреля (чт)<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">клуб A2<br></span></b><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>20:00</b><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">СПб, пр. Медиков, 3<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ст. м. Петроградская</span></p>"
+          "caption": "<p><b>Одной из сильных сторон работы (да и группы в целом) является концептуальность: альбом звучит холистично, а песни хорошо сбалансированы и выстроены. Мощные Morning in LA и Hold Back Your Love, атмосферная Swing и заключительная баллада Don't Fall - в трек-листе альбома всё логично.&nbsp;</b></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Пластинка слушается легко, ребята определённо хотели записать поп-альбом без претензий, и они это сделали. Слушая Friends, понимаешь, что не хватает чего-то нового и смелого: альбом кажется логичным продолжением предыдущих работ и не ставит задач покорить новые вершины. А потому лишь 11 место в родном чарте UK Albums против 4-ого с Big TV.</span><br></b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Если Вы слушаете инди или поп-музыку, если Вам близки такие исполнители, как Interpol, Editors, Arcade Fire, или если Вам просто интересна качественная живая музыка, настоятельно рекомендуем к посещению!</b></span></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">А для тех, кто уже решил идти на концерт, напомню,<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20 апреля (чт)<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">клуб A2<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20:00<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">СПб, пр. Медиков, 3<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ст. м. Петроградская</span></b></p>"
         },
         {
           "_inherit": "soundcloud1",
@@ -514,6 +506,38 @@
           ],
           "_name": "content5",
           "_anchor": "content5-19",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "BACKGROUND IMAGE",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1b",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
