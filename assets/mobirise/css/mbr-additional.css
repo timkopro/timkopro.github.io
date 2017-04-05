@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -516,8 +517,37 @@ h6,
 #msg-box8-9 .lead H3 {
   color: #cccccc;
 }
+#content5-16 .mbr-section-title,
+#content5-16 p {
+  color: #fff;
+}
+#content5-16 .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+}
+#content5-16 .mbr-section-title I {
+  text-align: center;
+}
+#msg-box5-13 P {
+  text-align: left;
+  color: #efefef;
+}
+#msg-box5-13 H3 {
+  text-align: center;
+  color: #efefef;
+}
+#content5-17 .mbr-section-title,
+#content5-17 p {
+  color: #fff;
+}
+#content5-17 P {
+  text-align: right;
+}
 #social-buttons1-x .mbr-section-title {
   font-size: 36px;
+}
+#content5-19 .mbr-section-title,
+#content5-19 p {
+  color: #fff;
 }
 
 #menu-j .hide-buttons .nav-btn {
