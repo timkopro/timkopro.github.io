@@ -556,6 +556,10 @@ h6,
   text-align: right;
   font-size: 19px;
 }
+#header3-1d .mbr-section-title,
+#header3-1d .mbr-section-subtitle {
+  text-align: center;
+}
 #social-buttons1-x .mbr-section-title {
   font-size: 36px;
 }
