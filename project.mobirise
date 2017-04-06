@@ -126,7 +126,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": true
