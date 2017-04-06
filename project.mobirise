@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 52,
+    "uniqCompNum": 53,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128-3.png",
     "noImageResize": ""
@@ -407,12 +407,15 @@
             "showCaption": true
           },
           "title": "",
-          "caption": "<p>Одной из сильных сторон работы (да и группы в целом) является концептуальность: альбом звучит холистично, а песни хорошо сбалансированы и выстроены. Мощные <i>Morning in LA </i>и<i> Hold Back Your Love</i>, атмосферная <i>Swing</i> и заключительная баллада <i>Don't Fall</i> - в трек-листе альбома всё стройно.&nbsp;</p><p>Пластинка слушается легко, ребята определённо хотели записать поп-альбом без претензий, и они это сделали. Слушая <i>Friends</i>, понимаешь, что не хватает чего-то нового и смелого: альбом кажется логичным продолжением предыдущих работ и не ставит задач покорить новые вершины. А потому лишь 11 место в родном чарте UK Albums против 4-ого с Big TV.</p><p>Если Вы слушаете инди или поп-музыку, если Вам близки такие исполнители, как Interpol, Editors, Arcade Fire или если Вам просто интересна качественная живая музыка, настоятельно рекомендуем к посещению!<br><span style=\"line-height: 1.5;\">А для тех, кто уже решил идти на концерт, напоминаем,</span></p><p>20 апреля (чт)<br><span style=\"line-height: 1.5;\">клуб A2<br></span><span style=\"line-height: 1.5;\">20:00<br></span><span style=\"line-height: 1.5;\">СПб, пр. Медиков, 3<br></span><span style=\"line-height: 1.5;\">ст. м. Петроградская</span></p>"
+          "caption": "<p>Одной из сильных сторон работы (да и группы в целом) является концептуальность: альбом звучит холистично, а песни хорошо сбалансированы и выстроены. Мощные <i>Morning in LA </i>и<i> Hold Back Your Love</i>, атмосферная <i>Swing</i> и заключительная баллада <i>Don't Fall</i> - в трек-листе альбома всё стройно.&nbsp;</p><p>Пластинка слушается легко, ребята определённо хотели записать поп-альбом без претензий, и они это сделали. Слушая <i>Friends</i>, понимаешь, что не хватает чего-то нового и смелого: альбом кажется логичным продолжением предыдущих работ и не ставит задач покорить новые вершины. А потому лишь 11 место в родном чарте UK Albums против 4-ого с Big TV.</p><p>Если Вы слушаете инди или поп-музыку, если Вам близки такие исполнители, как Interpol, Editors, Arcade Fire или если Вам просто интересна качественная живая музыка, настоятельно рекомендуем к посещению!<br><span style=\"line-height: 1.5;\">А для тех, кто уже решил идти на концерт, напоминаем,</span></p><p>20 апреля (чт)<br><span style=\"line-height: 1.5;\">клуб A2<br></span><span style=\"line-height: 1.5;\">20:00<br></span><span style=\"line-height: 1.5;\">СПб, пр. Медиков, 3<br></span><span style=\"line-height: 1.5;\">ст. м. Петроградская</span></p><p><a href=\"http://a2.fm/e/white-lies/\" target=\"_blank\">билеты 1600/2000+</a></p>"
         },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -421,28 +424,36 @@
           "_name": "header3",
           "_anchor": "header3-1d",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#181818",
             "showMeta": false
           },
           "title": "Послушать альбом:",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F300350274",
-          "alias": "soundcloud",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "soundcloud1",
-          "_anchor": "soundcloud1-1f",
-          "_params": {
-            "sound": "https://soundcloud.com/whitelies/sets/friends-42",
-            "autoplay": false,
-            "fullWidth": false
+          "_name": "image1",
+          "_anchor": "image1-1g",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z-9NAO4Ope8",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
           },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F300350274&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_tags": [

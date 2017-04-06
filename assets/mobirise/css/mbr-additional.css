@@ -560,6 +560,9 @@ h6,
 #header3-1d .mbr-section-subtitle {
   text-align: center;
 }
+#header3-1d H3 {
+  color: #efefef;
+}
 #social-buttons1-x .mbr-section-title {
   font-size: 36px;
 }
