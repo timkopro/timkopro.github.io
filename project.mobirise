@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 51,
+    "uniqCompNum": 52,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128-3.png",
     "noImageResize": ""
@@ -89,7 +89,7 @@
           },
           "title": "<span style=\"color: rgb(255, 255, 255); line-height: 1.1;\">timko production</span><br>",
           "text": "<span style=\"line-height: 1.5;\">правильная живая музыка в Санкт-Петербурге</span><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-1a\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CAN)<br>осень 2017<br></a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-1a\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
         },
         {
           "_styles": {
@@ -227,7 +227,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1a\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1a\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -421,27 +421,26 @@
           "_name": "header3",
           "_anchor": "header3-1d",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "showMeta": false
           },
           "title": "Послушать альбом:",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
-          "_inherit": "soundcloud1",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F300350274",
           "alias": "soundcloud",
           "_tags": [
             "Extension"
           ],
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F300350274",
-          "_name": "soundcloud2",
-          "_anchor": "soundcloud2-g",
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-1f",
           "_params": {
             "sound": "https://soundcloud.com/whitelies/sets/friends-42",
             "autoplay": false,
-            "fullWidth": true
+            "fullWidth": false
           },
           "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F300350274&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
         },
@@ -576,7 +575,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1a\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1a\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
