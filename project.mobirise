@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 53,
+    "uniqCompNum": 54,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128-3.png",
     "noImageResize": ""
@@ -87,7 +87,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"color: rgb(255, 255, 255); line-height: 1.1;\">timko production</span><br>",
+          "title": "spbLiveMusic.ru",
           "text": "<span style=\"line-height: 1.5;\">правильная живая музыка в Санкт-Петербурге</span><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-1a\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
         },
@@ -429,7 +429,7 @@
             "bgColor": "#181818",
             "showMeta": false
           },
-          "title": "Послушать альбом:",
+          "title": "Слушать альбом:",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
