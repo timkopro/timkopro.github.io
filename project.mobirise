@@ -65,6 +65,9 @@
               "font-size": "14px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "18px"
             }
           },
           "_anchor": "header4-5",

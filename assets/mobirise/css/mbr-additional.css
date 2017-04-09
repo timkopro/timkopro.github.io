@@ -444,6 +444,9 @@ h6,
   font-size: 14px;
   font-family: 'Oswald', sans-serif;
 }
+#header4-5 .mbr-section-lead SPAN {
+  font-size: 18px;
+}
 #msg-box3-1v .mbr-section-title,
 #msg-box3-1v p {
   color: #000;
