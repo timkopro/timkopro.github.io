@@ -222,7 +222,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logohires-581x128.png",
+              "src": "@PROJECT_PATH@/assets/images/spblivemusiclogoalpha-2-581x128.png",
               "height": 128,
               "alt": "spb Live Music - Правильная Живая Музыка в СПб",
               "link": "http://spblivemusic.ru",
@@ -623,7 +623,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logohires-581x128.png",
+              "src": "@PROJECT_PATH@/assets/images/spblivemusiclogoalpha-2-581x128.png",
               "height": 128,
               "alt": "spb Live Music - Правильная Живая Музыка в СПб",
               "link": "http://spblivemusic.ru",
@@ -969,7 +969,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logohires-581x128.png",
+              "src": "@PROJECT_PATH@/assets/images/spblivemusiclogoalpha-2-581x128.png",
               "height": 128,
               "alt": "spb Live Music - Правильная Живая Музыка в СПб",
               "link": "http://spblivemusic.ru",
@@ -1252,7 +1252,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logohires-581x128.png",
+              "src": "@PROJECT_PATH@/assets/images/spblivemusiclogoalpha-2-581x128.png",
               "height": 128,
               "alt": "spb Live Music - Правильная Живая Музыка в СПб",
               "link": "http://spblivemusic.ru",
@@ -1535,7 +1535,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logohires-581x128.png",
+              "src": "@PROJECT_PATH@/assets/images/spblivemusiclogoalpha-2-581x128.png",
               "height": 128,
               "alt": "spb Live Music - Правильная Живая Музыка в СПб",
               "link": "http://spblivemusic.ru",
