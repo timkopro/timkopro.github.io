@@ -31,8 +31,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "spb Live Music - Правильная Живая Музыка в Северной Столице spbLiveMusic.ru",
-        "meta_descr": "Информация и отчёты о самых интересных концертах в Санкт-Петербурге!",
+        "title": "spb Live Music - Правильная Живая Музыка в Санкт-Петербурге // spbLiveMusic.ru",
+        "meta_descr": "Информация и отчёты о самых интересных концертах в Санкт-Петербурге! spbLiveMusic.ru",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -89,7 +89,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "spbLiveMusic.ru",
+          "title": "<span style=\"font-weight: normal;\">spb Live Music</span>",
           "text": "<span style=\"line-height: 1.5;\">правильная живая музыка в Санкт-Петербурге</span><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-1v\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
         },
@@ -218,11 +218,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-timko-production-horizontal-alpha-white-438x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logohires-581x128.png",
               "height": 128,
-              "alt": "Timko Production - Правильная Живая Музыка в СПб",
-              "link": "http://timko.pro",
-              "title": "www.timko.pro",
+              "alt": "spb Live Music - Правильная Живая Музыка в СПб",
+              "link": "http://spblivemusic.ru",
+              "title": "spbLiveMusic.ru",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -232,7 +232,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/public144622863\" aria-expanded=\"true\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"true\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"true\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/public144622863\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -446,7 +446,7 @@
           "_styles": {
             "H3": {
               "font-size": "36px",
-              "text-align": "left",
+              "text-align": "center",
               "color": "#ffffff"
             },
             "SPAN": {
@@ -471,7 +471,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000",
             "inverse": true,
             "showTitle": true,
@@ -633,7 +633,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/public144622863\" aria-expanded=\"true\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"true\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"true\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/public144622863\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
