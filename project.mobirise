@@ -12,9 +12,9 @@
         "infoColor": "#65cbff",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Droid Sans",
-        "subtitleFont": "Droid Sans",
-        "textFont": "Droid Sans",
+        "titleFont": "Noto Sans",
+        "subtitleFont": "Noto Sans",
+        "textFont": "Noto Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
@@ -62,7 +62,9 @@
               "font-size": "48px"
             },
             ".btn": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "header4-5",
@@ -89,7 +91,7 @@
           },
           "title": "spbLiveMusic.ru",
           "text": "<span style=\"line-height: 1.5;\">правильная живая музыка в Санкт-Петербурге</span><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-1a\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-1v\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
         },
         {
           "_inherit": "msg-box8",
@@ -230,7 +232,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1a\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -427,8 +429,8 @@
           "_name": "header3",
           "_anchor": "header3-1d",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgColor": "#181818",
             "showMeta": false
           },
@@ -441,9 +443,22 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#553982"
+            }
+          },
           "_anchor": "msg-box4-1l",
           "_params": {
-            "imageSize": "65",
+            "imageSize": "58",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -482,21 +497,8 @@
             }
           },
           "title": "Презентация альбома Friends",
-          "text": "<b>Санкт-Петербург<br></b><span style=\"font-size: 1.07rem; line-height: 1.5;\">20 апреля (чт)<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20:00<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">клуб A2<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">СПб, пр. Медиков, 3<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ст. м. Петроградская<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет СПб</a><br></span><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(242, 242, 242); line-height: 1.5;\"><br></a><b style=\"font-size: 1.07rem; line-height: 1.5;\">Москва<br></b><span style=\"font-size: 1.07rem; line-height: 1.5;\">19 апреля (ср)<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20:00<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">КЗ Известия-Hall<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Москва, Пушкинская пл., 5<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ст. м. Пушкинская<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет Москва</a><br></span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "36px",
-              "text-align": "left",
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            },
-            "B": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Санкт-Петербург</b><font color=\"#232323\"><br></font></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20 апреля (чт)<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20:00<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">клуб A2<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">СПб, пр. Медиков, 3<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ст. м. Петроградская<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет СПб</a></span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\"><br></a></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Москва</b><br>19 апреля (ср)<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20:00<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">КЗ Известия-Hall<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Москва, Пушкинская пл., 5<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ст. м. Пушкинская<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет Москва</a><br></span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -631,7 +633,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1a\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
