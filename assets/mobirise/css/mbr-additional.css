@@ -432,12 +432,12 @@ h6,
   font-size: 46px;
 }
 #header4-5 .mbr-section-lead {
-  color: #cccccc;
+  color: #efefef;
   font-size: 20px;
 }
 #header4-5 .mbr-section-title SPAN {
   font-family: 'Open Sans', sans-serif;
-  color: #efefef;
+  color: #ffffff;
   font-size: 48px;
 }
 #header4-5 .btn {
@@ -446,6 +446,7 @@ h6,
 }
 #header4-5 .mbr-section-lead SPAN {
   font-size: 18px;
+  color: #efefef;
 }
 #msg-box3-1v .mbr-section-title,
 #msg-box3-1v p {

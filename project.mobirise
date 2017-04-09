@@ -52,13 +52,13 @@
               "font-size": "46px"
             },
             ".mbr-section-lead": {
-              "color": "#cccccc",
+              "color": "#efefef",
               "font-size": "20px"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef",
+              "color": "#ffffff",
               "font-size": "48px"
             },
             ".btn": {
@@ -67,7 +67,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "18px"
+              "font-size": "18px",
+              "color": "#efefef"
             }
           },
           "_anchor": "header4-5",
@@ -85,7 +86,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0",
             "overlayColor": "#000000",
             "contentAlign": "right",
             "showTitle": true,
