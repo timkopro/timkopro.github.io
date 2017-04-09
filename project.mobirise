@@ -12,9 +12,9 @@
         "infoColor": "#65cbff",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Open Sans",
-        "subtitleFont": "Open Sans",
-        "textFont": "Open Sans",
+        "titleFont": "Droid Sans",
+        "subtitleFont": "Droid Sans",
+        "textFont": "Droid Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 68,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128-3.png",
     "noImageResize": ""
@@ -92,47 +92,48 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-1a\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
         },
         {
+          "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, p": {
-              "color": "#fff"
+              "color": "#000"
             },
             ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "46px"
+              "color": "#ffffff"
             },
-            ".mbr-section-title SPAN": {
+            ".lead P": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title DIV": {
               "font-size": "30px"
-            },
-            "P": {
-              "text-align": "center",
-              "font-size": "19px"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-1a",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1v",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/white-lies-2000x1333.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
             "showTitle": true,
-            "showCaption": true
+            "showText": true,
+            "showButton": true
           },
-          "title": "White Lies (UK)<br><span style=\"font-weight: normal;\">20.04 - A2</span>",
-          "caption": "<p>Британская рок-группа White Lies выступит в Санкт-Петербурге 20 апреля.<br>Коллектив представит поклонникам свой новый, четвертый альбом <i>Friends</i>&nbsp;<i><a href=\"index.html#soundcloud2-g\">(слушать)</a></i>.<br>Концерт пройдет на площадке A2 Green Concert.</p><p><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет СПб 20.04</a><br><a href=\"https://ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет Мск 19.04</a></p><p><a href=\"index.html#content5-16\" class=\"text-primary\">Наши эксперты делятся впечатлениями после прослушивания альбома.</a><br></p>"
+          "title": "White Lies (UK)<div>20.04 - A2</div>",
+          "text": "<p>Британская рок-группа White Lies выступит в Санкт-Петербурге 20 апреля.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Коллектив представит поклонникам свой новый, четвертый альбом Friends <a href=\"index.html#header3-1d\">(слушать)</a>.<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Концерт пройдет на площадке A2 Green Concert.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"index.html#content5-16\">Наши эксперты делятся впечатлениями после прослушивания альбома.</a></span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ БИЛЕТ<br>СПб 20.04<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://ponominalu.ru/event/white-lies?promote=timkopro\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ БИЛЕТ<br>МОСКВА 19.04<br></a>"
         },
         {
           "_styles": {
@@ -150,8 +151,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -185,7 +186,9 @@
               "color": "#707eb3!important"
             },
             ".btn": {
-              "font-size": "12px"
+              "font-size": "12px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_tags": [
@@ -197,9 +200,9 @@
             "bgColor": "#000000",
             "fontSize": "0.8",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -305,7 +308,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": true
@@ -401,13 +404,13 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "showTitle": false,
             "showCaption": true
           },
           "title": "",
-          "caption": "<p>Одной из сильных сторон работы (да и группы в целом) является концептуальность: альбом звучит холистично, а песни хорошо сбалансированы и выстроены. Мощные <i>Morning in LA </i>и<i> Hold Back Your Love</i>, атмосферная <i>Swing</i> и заключительная баллада <i>Don't Fall</i> - в трек-листе альбома всё стройно.&nbsp;</p><p>Пластинка слушается легко, ребята определённо хотели записать поп-альбом без претензий, и они это сделали. Слушая <i>Friends</i>, понимаешь, что не хватает чего-то нового и смелого: альбом кажется логичным продолжением предыдущих работ и не ставит задач покорить новые вершины. А потому лишь 11 место в родном чарте UK Albums против 4-ого с Big TV.</p><p>Если Вы слушаете инди или поп-музыку, если Вам близки такие исполнители, как Interpol, Editors, Arcade Fire или если Вам просто интересна качественная живая музыка, настоятельно рекомендуем к посещению!<br><span style=\"line-height: 1.5;\">А для тех, кто уже решил идти на концерт, напоминаем,</span></p><p>20 апреля (чт)<br><span style=\"line-height: 1.5;\">клуб A2<br></span><span style=\"line-height: 1.5;\">20:00<br></span><span style=\"line-height: 1.5;\">СПб, пр. Медиков, 3<br></span><span style=\"line-height: 1.5;\">ст. м. Петроградская<br></span><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\" style=\"line-height: 1.5; background-color: rgb(255, 255, 255);\">купить билет СПб</a><span style=\"line-height: 1.5;\"><br></span></p><p>для жителей столицы<br>КЗ Известия-Hall<br><span style=\"line-height: 1.5;\">19 апреля (ср)<br>20:00</span><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\">Москва, Пушкинская пл., 5<br>ст. м. Пушкинская<br></span><a href=\"https://ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\" style=\"line-height: 1.5; background-color: rgb(255, 255, 255);\">купить билет Мск</a></p>"
+          "caption": "<p>Одной из сильных сторон работы (да и группы в целом) является концептуальность: альбом звучит холистично, а песни хорошо сбалансированы и выстроены. Мощные <i>Morning in LA </i>и<i> Hold Back Your Love</i>, атмосферная <i>Swing</i> и заключительная баллада <i>Don't Fall</i> - в трек-листе альбома всё стройно.&nbsp;</p><p>Пластинка слушается легко, ребята определённо хотели записать поп-альбом без претензий, и они это сделали. Слушая <i>Friends</i>, понимаешь, что не хватает чего-то нового и смелого: альбом кажется логичным продолжением предыдущих работ и не ставит задач покорить новые вершины. А потому лишь 11 место в родном чарте UK Albums против 4-ого с Big TV.</p><p>Если Вы слушаете инди или поп-музыку, если Вам близки такие исполнители, как Interpol, Editors, Arcade Fire или если Вам просто интересна качественная живая музыка, настоятельно рекомендуем к посещению!<br><span style=\"line-height: 1.5;\">А для тех, кто уже решил идти на концерт, напоминаем,</span></p><p>20 апреля (чт)<br><span style=\"line-height: 1.5;\">клуб A2<br></span><span style=\"line-height: 1.5;\">20:00<br></span><span style=\"line-height: 1.5;\">СПб, пр. Медиков, 3<br></span><span style=\"line-height: 1.5;\">ст. м. Петроградская<br><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет СПб</a></span></p>"
         },
         {
           "_styles": {
@@ -415,7 +418,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#efefef"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -433,27 +436,67 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_inherit": "msg-box5",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-1g",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1l",
+          "_params": {
+            "imageSize": "65",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
           "media": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=z-9NAO4Ope8",
+              "active": true,
+              "src": "https://youtu.be/z-9NAO4Ope8",
+              "aspectratio": "4:3",
               "autoplay": false,
-              "loop": false,
-              "active": true
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
             }
           },
-          "_params": {
-            "showText": false
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "title": "Презентация альбома Friends",
+          "text": "<b>Санкт-Петербург<br></b><span style=\"font-size: 1.07rem; line-height: 1.5;\">20 апреля (чт)<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20:00<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">клуб A2<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">СПб, пр. Медиков, 3<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ст. м. Петроградская<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет СПб</a><br></span><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(242, 242, 242); line-height: 1.5;\"><br></a><b style=\"font-size: 1.07rem; line-height: 1.5;\">Москва<br></b><span style=\"font-size: 1.07rem; line-height: 1.5;\">19 апреля (ср)<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20:00<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">КЗ Известия-Hall<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Москва, Пушкинская пл., 5<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ст. м. Пушкинская<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет Москва</a><br></span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -509,8 +552,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -541,10 +584,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#495687!important"
+              "color": "#707eb3!important"
             },
             ".btn": {
-              "font-size": "12px"
+              "font-size": "12px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_tags": [
@@ -556,9 +601,9 @@
             "bgColor": "#000000",
             "fontSize": "0.8",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
