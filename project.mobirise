@@ -1,12 +1,12 @@
 {
   "settings": {
-    "currentPage": "raised-by-swans.html",
+    "currentPage": "index.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#707eb3",
+        "primaryColor": "#7181be",
         "secondaryColor": "#ffffff",
         "successColor": "#90a878",
         "infoColor": "#65cbff",
@@ -85,7 +85,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.3",
             "overlayColor": "#000000",
             "contentAlign": "right",
             "showTitle": true,
@@ -130,7 +130,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
