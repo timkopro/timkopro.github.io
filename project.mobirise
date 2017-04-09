@@ -93,8 +93,8 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">spb Live Music</span>",
-          "text": "<span style=\"line-height: 1.5;\">правильная живая музыка в Санкт-Петербурге</span><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"torba-na-kruche.html\" data-toolbar=\"-mbrBtnMove\">ТОРБА-НА-КРУЧЕ (СПб)<br>11 апр (вт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-1v\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
+          "text": "<span style=\"line-height: 1.5;\">Правильная живая музыка в Санкт-Петербурге</span><br><span style=\"line-height: 1.5;\"><br></span><br>Ближайшие мероприятия:",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"torba-na-kruche.html\" data-toolbar=\"-mbrBtnMove\">ТОРБА-НА-КРУЧЕ (СПб)<br>11 апр (вт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-1v\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
         },
         {
           "_inherit": "msg-box8",
