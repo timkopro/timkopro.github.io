@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 80,
+    "uniqCompNum": 92,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128-3.png",
     "noImageResize": ""
@@ -93,8 +93,8 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">spb Live Music</span>",
-          "text": "<span style=\"line-height: 1.5;\">Правильная живая музыка в Санкт-Петербурге</span><br><span style=\"line-height: 1.5;\"><br></span><br>Ближайшие мероприятия:",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"torba-na-kruche.html\" data-toolbar=\"-mbrBtnMove\">ТОРБА-НА-КРУЧЕ (СПб)<br>11 апр (вт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-1v\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
+          "text": "<span style=\"line-height: 1.5;\">Правильная живая музыка в Санкт-Петербурге</span><br><span style=\"line-height: 1.5;\"><br></span><br>В ближайшее время стоит посетить:&nbsp;",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"god-is-an-astronaut.html\" data-toolbar=\"-mbrBtnMove\">GOD IS AN ASTRONAUT (IRELAND)<br>13 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-1v\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
         },
         {
           "_inherit": "msg-box8",
@@ -235,7 +235,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/public144622863\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torba-na-kruche.html\">ТОРБА-НА-КРУЧЕ (11.04 вт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/public144622863\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torba-na-kruche.html\">ТОРБА-НА-КРУЧЕ (11.04 вт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sansara.html\">САНСАРА (12.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"god-is-an-astronaut.html\">GOD IS AN ASTRONAUT (13.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -636,7 +636,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/public144622863\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torba-na-kruche.html\">ТОРБА-НА-КРУЧЕ (11.04 вт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/public144622863\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torba-na-kruche.html\">ТОРБА-НА-КРУЧЕ (11.04 вт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sansara.html\">САНСАРА (12.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"god-is-an-astronaut.html\">GOD IS AN ASTRONAUT (13.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -982,7 +982,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/public144622863\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torba-na-kruche.html\">ТОРБА-НА-КРУЧЕ (11.04 вт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/public144622863\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torba-na-kruche.html\">ТОРБА-НА-КРУЧЕ (11.04 вт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sansara.html\">САНСАРА (12.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"god-is-an-astronaut.html\">GOD IS AN ASTRONAUT (13.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -1096,6 +1096,572 @@
             }
           },
           "_anchor": "social-buttons1-27",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": true,
+            "odnoklassniki": true
+          },
+          "text": "Поделиться этой страницей"
+        }
+      ]
+    },
+    "sansara.html": {
+      "settings": {
+        "title": "spb Live Music - Сансара - Правильная Живая Музыка в Санкт-Петербурге // spbLiveMusic.ru",
+        "meta_descr": "Информация и отчёты о самых интересных концертах в Санкт-Петербурге! spbLiveMusic.ru Сансара",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-28",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sansara-2000x1345.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Сансара (ЕКБ)<br><div>12.04 - Космонавт</div>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Фирменный саунд, всегда яркие концертные выступления, полные аллюзий поэтические тексты и харизматичный фронтмен Саша Гагарин — вот что такое Сансара.</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">И вот, такой концерт должен был обязательно случиться! Мы ждали этого. В День Космонавтики, 12 апреля, легендарная уральская группа Сансара во главе со своим фронтменом Сашей Гагариным впервые выступит на сцене клуба Космонавт! Более того с премьерой нового сингла и программой лучших песен.</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://spb.ponominalu.ru/event/sansara?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>СПб 12.04<br></a> "
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7181be!important"
+            },
+            ".btn": {
+              "font-size": "12px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-29",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logohires-581x128.png",
+              "height": 128,
+              "alt": "spb Live Music - Правильная Живая Музыка в СПб",
+              "link": "http://spblivemusic.ru",
+              "title": "spbLiveMusic.ru",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/public144622863\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torba-na-kruche.html\">ТОРБА-НА-КРУЧЕ (11.04 вт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sansara.html\">САНСАРА (12.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"god-is-an-astronaut.html\">GOD IS AN ASTRONAUT (13.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2a",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 spbLiveMusic Timko Production"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#efefef"
+            },
+            "B": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "content2-2b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#232323"
+          },
+          "text": "<blockquote>Сансара — группа, которая давно не относится только к року, и к уральскому, в частности. Это группа, которой настолько тесно в рамках одной волны и одного течения, что даже маститые критики затрудняются точно определить её стиль и формат, сойдясь на том, что Сансара — это уникальное явление на отечественной сцене, каждое новое творение которой удивляет и ломает все прежние стереотипы о группе.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            "H3": {
+              "text-align": "center",
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "msg-box5-2c",
+          "_params": {
+            "imageSize": "54",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#232323",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=vhrVguTUJg4",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "♂",
+          "text": "12 апреля (ср)<br>20:00<br>клуб Космонавт<br>СПб,&nbsp;Бронницкая ул., 24<br>ст. м. Технологический Институт<br><a href=\"https://spb.ponominalu.ru/event/sansara?promote=timkopro\" target=\"_blank\">купить билет</a><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "social-buttons1-2d",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": true,
+            "odnoklassniki": true
+          },
+          "text": "Поделиться этой страницей"
+        }
+      ]
+    },
+    "god-is-an-astronaut.html": {
+      "settings": {
+        "title": "spb Live Music - God Is An Astronaut - Правильная Живая Музыка в Санкт-Петербурге // spbLiveMusic.ru",
+        "meta_descr": "Информация и отчёты о самых интересных концертах в Санкт-Петербурге! spbLiveMusic.ru God Is An Astronaut",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2e",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/god-is-an-astronaut-2000x912.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "God Is an Astronaut (IRELAND)<br><div>13.04 - Aurora Concert Hall</div>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">13 апреля 2017 года в 20:00 на сцене Aurora Concert Hall состоится концерт ирландской God Is An Astronaut. Всем поклонникам музыки в духе пост-рока и спейс-рока рекомендуем приобрести билеты заранее.</span><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://spb.ponominalu.ru/event/god-is-an-astronaut?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>СПб 13.04<br></a> "
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7181be!important"
+            },
+            ".btn": {
+              "font-size": "12px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2f",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logohires-581x128.png",
+              "height": 128,
+              "alt": "spb Live Music - Правильная Живая Музыка в СПб",
+              "link": "http://spblivemusic.ru",
+              "title": "spbLiveMusic.ru",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/public144622863\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torba-na-kruche.html\">ТОРБА-НА-КРУЧЕ (11.04 вт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sansara.html\">САНСАРА (12.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"god-is-an-astronaut.html\">GOD IS AN ASTRONAUT (13.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2g",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 spbLiveMusic Timko Production"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#efefef"
+            },
+            "B": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "content2-2h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#232323"
+          },
+          "text": "<blockquote>God Is An Astronaut — инструментальный коллектив, ведущий свой отсчет с 2002 года. Их с полным правом можно отнести к наиболее заметным представителям современной экспериментальной музыки. Самым популярным альбомом группы стала пластинка <i>All Is Violent, All Is Bright</i>, вышедшая в 2005 году, но и сейчас God Is An Astronaut продолжают периодически удивлять слушателей, выпуская новый материал. Музыканты используют в своих композициях нехарактерные для традиционного рока ритмы, мелодии, тембры, создавая ощущение попадания в открытое космическое пространство. Само звучание — выразительная ритм-секция и гитары — в последнее время максимально приближено к своему живому варианту, благодаря чему достигается эффект присутствия. Выверенный баланс космического и сценического звука отвечает за силу воздействия музыки на слушателей.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            "H3": {
+              "text-align": "center",
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "msg-box5-2i",
+          "_params": {
+            "imageSize": "54",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#232323",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/m6IRi_JTS_Y?t=11s",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "♂",
+          "text": "13 апреля (чт)<br>20:00<br>Aurora Concert Hall<br>СПб,&nbsp;Пироговская наб., 5/2<br>ст. м. Площадь Ленина<br><a href=\"https://spb.ponominalu.ru/event/god-is-an-astronaut?promote=timkopro\" target=\"_blank\">купить билет</a><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "social-buttons1-2j",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",

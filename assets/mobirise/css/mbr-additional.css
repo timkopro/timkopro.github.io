@@ -778,3 +778,201 @@ h6,
 #social-buttons1-27 .mbr-section-title {
   font-size: 36px;
 }
+
+
+#msg-box3-28 .mbr-section-title,
+#msg-box3-28 p {
+  color: #000;
+}
+#msg-box3-28 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-28 .lead P {
+  color: #ffffff;
+}
+#msg-box3-28 .mbr-section-title DIV {
+  font-size: 30px;
+}
+#menu-29 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-29 .navbar-caption {
+  color: #ffffff;
+}
+#menu-29 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-29 .close-icon::before,
+#menu-29 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-29 .link,
+#menu-29 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-29 .link {
+  font-size: 0.8rem;
+}
+#menu-29 .dropdown-item,
+#menu-29 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-29 .link:hover,
+#menu-29 .dropdown-item:hover,
+#menu-29 .link:focus,
+#menu-29 .dropdown-item:focus {
+  color: #7181be;
+}
+#menu-29 .link[aria-expanded="true"],
+#menu-29 .dropdown-menu {
+  background: #000000;
+}
+#menu-29 .nav-dropdown-sm .link:focus,
+#menu-29 .nav-dropdown-sm .link:hover,
+#menu-29 .nav-dropdown-sm .dropdown-item:focus,
+#menu-29 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-29 .navbar,
+#menu-29 .nav-dropdown-sm,
+#menu-29 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-29 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-29 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-29 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-29 .bg-color.transparent.opened .link:hover,
+#menu-29 .bg-color.transparent.opened .link:focus {
+  color: #7181be;
+}
+#menu-29 .link[aria-expanded="true"],
+#menu-29 .dropdown-item[aria-expanded="true"] {
+  color: #7181be!important;
+}
+#menu-29 .btn {
+  font-size: 12px;
+  font-family: 'Oswald', sans-serif;
+}
+#content2-2b BLOCKQUOTE {
+  color: #efefef;
+}
+#content2-2b B {
+  font-size: 19px;
+}
+#msg-box5-2c P {
+  text-align: left;
+  color: #ffffff;
+  font-size: 16px;
+}
+#msg-box5-2c H3 {
+  text-align: center;
+  color: #efefef;
+}
+#social-buttons1-2d .mbr-section-title {
+  font-size: 36px;
+}
+
+
+#msg-box3-2e .mbr-section-title,
+#msg-box3-2e p {
+  color: #000;
+}
+#msg-box3-2e .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-2e .lead P {
+  color: #ffffff;
+}
+#msg-box3-2e .mbr-section-title DIV {
+  font-size: 30px;
+}
+#menu-2f .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2f .navbar-caption {
+  color: #ffffff;
+}
+#menu-2f .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2f .close-icon::before,
+#menu-2f .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-2f .link,
+#menu-2f .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-2f .link {
+  font-size: 0.8rem;
+}
+#menu-2f .dropdown-item,
+#menu-2f .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-2f .link:hover,
+#menu-2f .dropdown-item:hover,
+#menu-2f .link:focus,
+#menu-2f .dropdown-item:focus {
+  color: #7181be;
+}
+#menu-2f .link[aria-expanded="true"],
+#menu-2f .dropdown-menu {
+  background: #000000;
+}
+#menu-2f .nav-dropdown-sm .link:focus,
+#menu-2f .nav-dropdown-sm .link:hover,
+#menu-2f .nav-dropdown-sm .dropdown-item:focus,
+#menu-2f .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-2f .navbar,
+#menu-2f .nav-dropdown-sm,
+#menu-2f .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2f .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-2f .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2f .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2f .bg-color.transparent.opened .link:hover,
+#menu-2f .bg-color.transparent.opened .link:focus {
+  color: #7181be;
+}
+#menu-2f .link[aria-expanded="true"],
+#menu-2f .dropdown-item[aria-expanded="true"] {
+  color: #7181be!important;
+}
+#menu-2f .btn {
+  font-size: 12px;
+  font-family: 'Oswald', sans-serif;
+}
+#content2-2h BLOCKQUOTE {
+  color: #efefef;
+}
+#content2-2h B {
+  font-size: 19px;
+}
+#msg-box5-2i P {
+  text-align: left;
+  color: #ffffff;
+  font-size: 16px;
+}
+#msg-box5-2i H3 {
+  text-align: center;
+  color: #efefef;
+}
+#social-buttons1-2j .mbr-section-title {
+  font-size: 36px;
+}
