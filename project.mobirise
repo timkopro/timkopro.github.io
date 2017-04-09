@@ -31,7 +31,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Timko Production - Правильная Живая Музыка в СПб www.timko.pro",
+        "title": "spb Live Music - Правильная Живая Музыка в Северной Столице spbLiveMusic.ru",
         "meta_descr": "Информация и отчёты о самых интересных концертах в Санкт-Петербурге!",
         "header_custom": "",
         "footer_custom": "",
@@ -535,7 +535,7 @@
     "raised-by-swans.html": {
       "settings": {
         "title": "Концерт Raised By Swans (Канада) впервые в Санкт-Петербурге!",
-        "meta_descr": "Более подробная информация на www.timko.pro"
+        "meta_descr": "Более подробная информация на spbLiveMusic.pro"
       },
       "components": [
         {
