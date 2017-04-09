@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "raised-by-swans.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -622,11 +622,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-timko-production-horizontal-alpha-white-438x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logohires-581x128.png",
               "height": 128,
-              "alt": "Timko Production - Правильная Живая Музыка в СПб",
-              "link": "http://timko.pro",
-              "title": "www.timko.pro",
+              "alt": "spb Live Music - Правильная Живая Музыка в СПб",
+              "link": "http://spblivemusic.ru",
+              "title": "spblivemusic.ru",
               "linkInNewWindow": false
             },
             "iconFont": {
