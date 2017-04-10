@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "raised-by-swans.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -790,14 +790,14 @@
           "title": "Оставьте Свой Email",
           "subtitle": "Мы вышлем Вам всю необходимую информацию, как только дата концерта Raised by Swans в СПб будет зафиксирована.",
           "form": {
-            "action": "live@timko.pro",
+            "action": "info@spblivemusic.ru",
             "alerts": {
               "success": "Большое спасибо!\nПожалуйста, поделитесь этой страницей со своими друзьями, используя кнопки соц. сетей внизу страницы."
             },
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "Введите Ваш Email Адрес..."
+                "customTitle": "Введите Ваш Email Адрес... (концерт Raised by Swans)"
               }
             }
           },
