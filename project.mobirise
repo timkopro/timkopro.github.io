@@ -1709,7 +1709,7 @@
             },
             ".mbr-section-lead": {
               "color": "#efefef",
-              "font-size": "20px"
+              "font-size": "24px"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Ubuntu', sans-serif",
