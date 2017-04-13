@@ -1705,11 +1705,11 @@
               "color": "#ffffff",
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "30px"
+              "font-size": "25px"
             },
             ".mbr-section-lead": {
               "color": "#efefef",
-              "font-size": "24px"
+              "font-size": "22px"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Ubuntu', sans-serif",
