@@ -978,3 +978,107 @@ h6,
 #social-buttons1-2j .mbr-section-title {
   font-size: 36px;
 }
+
+
+
+
+
+#header4-2k .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 46px;
+}
+#header4-2k .mbr-section-lead {
+  color: #efefef;
+  font-size: 20px;
+}
+#header4-2k .mbr-section-title SPAN {
+  font-family: 'Ubuntu', sans-serif;
+  color: #ffffff;
+  font-size: 48px;
+}
+#header4-2k .btn {
+  font-size: 14px;
+  font-family: 'Oswald', sans-serif;
+}
+#header4-2k .mbr-section-lead SPAN {
+  font-size: 18px;
+  color: #efefef;
+}
+#menu-2m .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2m .navbar-caption {
+  color: #ffffff;
+}
+#menu-2m .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2m .close-icon::before,
+#menu-2m .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-2m .link,
+#menu-2m .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-2m .link {
+  font-size: 0.8rem;
+}
+#menu-2m .dropdown-item,
+#menu-2m .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-2m .link:hover,
+#menu-2m .dropdown-item:hover,
+#menu-2m .link:focus,
+#menu-2m .dropdown-item:focus {
+  color: #7181be;
+}
+#menu-2m .link[aria-expanded="true"],
+#menu-2m .dropdown-menu {
+  background: #000000;
+}
+#menu-2m .nav-dropdown-sm .link:focus,
+#menu-2m .nav-dropdown-sm .link:hover,
+#menu-2m .nav-dropdown-sm .dropdown-item:focus,
+#menu-2m .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-2m .navbar,
+#menu-2m .nav-dropdown-sm,
+#menu-2m .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2m .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-2m .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2m .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2m .bg-color.transparent.opened .link:hover,
+#menu-2m .bg-color.transparent.opened .link:focus {
+  color: #7181be;
+}
+#menu-2m .link[aria-expanded="true"],
+#menu-2m .dropdown-item[aria-expanded="true"] {
+  color: #7181be!important;
+}
+#menu-2m .btn {
+  font-size: 12px;
+  font-family: 'Oswald', sans-serif;
+}
+#content5-2r .mbr-section-title,
+#content5-2r p {
+  color: #fff;
+}
+#content5-2r P {
+  text-align: center;
+  font-size: 20px;
+}
+#social-buttons1-2u .mbr-section-title {
+  font-size: 36px;
+}
