@@ -1715,7 +1715,7 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "color": "#ffffff",
-              "font-size": "32px"
+              "font-size": "36px"
             },
             ".btn": {
               "font-size": "14px",
