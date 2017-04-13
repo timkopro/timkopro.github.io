@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "white-lies-video.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -1750,7 +1750,7 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">#СнимаемВместе</span>",
-          "text": "Сохраним на память концерт White Lies в Санкт-Петербурге совместными усилиями.<br><br>С Вас – пара видосов, снятых на телефон,<br>С нас – сведение воедино материала с десятков или сотен мобильных камер!<br><br>",
+          "text": "Сохраним на память концерт White Lies в Санкт-Петербурге совместными усилиями.<br><br>С вас – пара видосов, снятых на телефон,<br>С нас – сведение воедино материала с десятков или сотен мобильных камер!<br><br>",
           "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"white-lies-video.html#content5-2r\" data-toolbar=\"-mbrBtnMove\">КАК<br>УЧАСТВОВАТЬ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ<br>О КОНЦЕРТЕ<br></a>  "
         },
         {
