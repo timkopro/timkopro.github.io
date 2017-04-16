@@ -1082,3 +1082,108 @@ h6,
 #social-buttons1-2u .mbr-section-title {
   font-size: 36px;
 }
+
+
+#msg-box3-2v .mbr-section-title,
+#msg-box3-2v p {
+  color: #000;
+}
+#msg-box3-2v .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-2v .lead P {
+  color: #ffffff;
+}
+#msg-box3-2v .mbr-section-title DIV {
+  font-size: 30px;
+}
+#msg-box3-2v .lead DIV {
+  color: #ffffff;
+}
+#msg-box3-2v .lead {
+  color: #ffffff;
+}
+#menu-2w .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2w .navbar-caption {
+  color: #ffffff;
+}
+#menu-2w .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2w .close-icon::before,
+#menu-2w .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-2w .link,
+#menu-2w .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-2w .link {
+  font-size: 0.8rem;
+}
+#menu-2w .dropdown-item,
+#menu-2w .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-2w .link:hover,
+#menu-2w .dropdown-item:hover,
+#menu-2w .link:focus,
+#menu-2w .dropdown-item:focus {
+  color: #7181be;
+}
+#menu-2w .link[aria-expanded="true"],
+#menu-2w .dropdown-menu {
+  background: #000000;
+}
+#menu-2w .nav-dropdown-sm .link:focus,
+#menu-2w .nav-dropdown-sm .link:hover,
+#menu-2w .nav-dropdown-sm .dropdown-item:focus,
+#menu-2w .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-2w .navbar,
+#menu-2w .nav-dropdown-sm,
+#menu-2w .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2w .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-2w .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2w .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2w .bg-color.transparent.opened .link:hover,
+#menu-2w .bg-color.transparent.opened .link:focus {
+  color: #7181be;
+}
+#menu-2w .link[aria-expanded="true"],
+#menu-2w .dropdown-item[aria-expanded="true"] {
+  color: #7181be!important;
+}
+#menu-2w .btn {
+  font-size: 12px;
+  font-family: 'Oswald', sans-serif;
+}
+#content2-2y BLOCKQUOTE {
+  color: #efefef;
+}
+#content2-2y B {
+  font-size: 19px;
+}
+#msg-box5-2z P {
+  text-align: left;
+  color: #ffffff;
+  font-size: 16px;
+}
+#msg-box5-2z H3 {
+  text-align: center;
+  color: #efefef;
+}
+#social-buttons1-30 .mbr-section-title {
+  font-size: 36px;
+}
