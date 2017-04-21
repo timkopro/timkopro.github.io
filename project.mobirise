@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "white-lies-video.html",
+    "currentPage": "index.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -559,7 +559,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133310.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -891,7 +891,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133310.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1174,7 +1174,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133310.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1457,7 +1457,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133310.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1567,7 +1567,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/alex-clare-2000x11259.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/alex-clare-2000x112511.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1746,7 +1746,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133310.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1881,7 +1881,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">#СнимаемВместе</span>",
           "text": "Сохраним на память концерт White Lies в Санкт-Петербурге совместными усилиями.<br><br>С вас – пара видосов, снятых на телефон,<br>С нас – сведение воедино материала с десятков или сотен мобильных камер!<br><br>",
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"white-lies-video.html#content5-2r\" data-toolbar=\"-mbrBtnMove\">УЧАСТВОВАТЬ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://spblivemusic.ru/index.html#msg-box3-1v\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ<br>О WHITE LIES<br></a>  "
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"white-lies-video.html#content5-2r\" data-toolbar=\"-mbrBtnMove\">УЧАСТВОВАТЬ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"white-lies.html\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ<br>О WHITE LIES<br></a>  "
         },
         {
           "_styles": {
@@ -2134,7 +2134,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">spb Live Music</span>",
           "text": "<span style=\"line-height: 1.5;\">Правильная живая музыка в Санкт-Петербурге</span><br><span style=\"line-height: 1.5;\"><br></span><br>В ближайшее время стоит посетить:&nbsp;",
-          "buttons": "    <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-1v\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"alex-clare.html\" data-toolbar=\"-mbrBtnMove\">ALEX CLARE (UK)<br>27 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
+          "buttons": "    <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-1v\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20.04.2017<br></a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
         },
         {
           "_inherit": "msg-box8",
@@ -2177,7 +2177,7 @@
             "showButton": true
           },
           "title": "White Lies (UK)<div>20.04 - A2</div>",
-          "text": "<p>Британская рок-группа White Lies выступит в Санкт-Петербурге 20 апреля.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Коллектив представит поклонникам свой новый, четвертый альбом Friends <a href=\"index.html#header3-1d\">(слушать)</a>.<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Концерт пройдет на площадке A2 Green Concert.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"index.html#content5-16\">Наши эксперты делятся впечатлениями после прослушивания альбома.</a></span></p>",
+          "text": "<p>Британская рок-группа White Lies выступила в Санкт-Петербурге 20 апреля.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Коллектив представил поклонникам свой новый, четвертый альбом Friends <a href=\"index.html#header3-1d\">(слушать)</a>.<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Концерт прошёл на площадке A2 Green Concert.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"index.html#content5-16\">Наши эксперты делятся впечатлениями после прослушивания альбома.</a></span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>СПб 20.04<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://ponominalu.ru/event/white-lies?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>МОСКВА 19.04<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"white-lies-video.html\" data-toolbar=\"-mbrBtnMove\">УЧАСТВОВАТЬ В<br>#СнимаемВместе<br></a>"
         },
         {
