@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "raised-by-swans.html",
+    "currentPage": "white-lies-video.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -559,7 +559,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13338.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -891,7 +891,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13338.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1174,7 +1174,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13338.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1457,7 +1457,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13338.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1567,7 +1567,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/alex-clare-2000x11257.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/alex-clare-2000x11259.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1746,7 +1746,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13338.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2034,7 +2034,7 @@
             "showCaption": true
           },
           "title": "",
-          "caption": "<p>Участвовать в #СнимаемВместе просто как раз, два, три:</p><p><span style=\"line-height: 1.5;\">1. Сними видео на концерте White Lies в СПб;<br>2. Загрузи видео на <a href=\"https://disk.yandex.ru\" target=\"_blank\">Яндекс.Диск</a>, <a href=\"https://drive.google.com/\" target=\"_blank\">Google Drive</a> или <a href=\"http://dropmefiles.com/\" target=\"_blank\">dropmefiles.com</a>&nbsp;(можно без регистрации) до 23 апреля;<br>3. Отправь ссылку на <a href=\"mailto:whitelies@spbLiveMusic.ru\">WhiteLies@spbLiveMusic.ru</a>&nbsp;или в любой соц. сети.</span></p><p><span style=\"line-height: 1.5;\">Снимай не только Гарри, но и остальных музыкантов, и даже себя: чем интереснее и разнообразнее будут ролики, тем круче будет конечный результат.</span><br></p><p>Обязательно <a href=\"#bottom\">поделитесь этой страницей </a>с друзьями, которые были на концерте, - чем больше людей участвует, тем интереснее будет результат.</p><p><span style=\"line-height: 1.5;\">Финальное видео будет предназначено только для домашнего просмотра.</span><br></p>"
+          "caption": "<p>Участвуй в #СнимаемВместе:</p><p><span style=\"line-height: 1.5;\">У тебя есть видео с концерта White Lies в СПб?<br>Тогда загружай его на <a href=\"https://disk.yandex.ru\" target=\"_blank\">Яндекс.Диск</a>, <a href=\"https://drive.google.com/\" target=\"_blank\">Google Drive</a> или <a href=\"http://dropmefiles.com/\" target=\"_blank\">dropmefiles.com</a>&nbsp;(без регистрации) до 25 апреля;<br>Отправляй ссылку на <a href=\"mailto:whitelies@spbLiveMusic.ru\">WhiteLies@spbLiveMusic.ru</a>&nbsp;или в любой соц. сети и жди смонтированное видео.</span></p><p><span style=\"line-height: 1.5;\">Любые видео с концерта подойдут! Ведь чем интереснее и разнообразнее будут ролики, тем круче будет конечный результат.</span><br></p><p>Обязательно <a href=\"#bottom\">поделитесь этой страницей </a>с друзьями, которые были на концерте, - чем больше людей участвует, тем интереснее будет результат.</p><p><span style=\"line-height: 1.5;\">Финальное видео будет предназначено только для домашнего просмотра.</span><br></p>"
         },
         {
           "_tags": [
