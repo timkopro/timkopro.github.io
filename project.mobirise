@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "white-lies-video.html",
+    "currentPage": "raised-by-swans.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 110,
+    "uniqCompNum": 124,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128-6.png",
     "noImageResize": "",
@@ -96,7 +96,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">spb Live Music</span>",
           "text": "<span style=\"line-height: 1.5;\">Правильная живая музыка в Санкт-Петербурге</span><br><span style=\"line-height: 1.5;\"><br></span><br>В ближайшее время стоит посетить:&nbsp;",
-          "buttons": "    <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-1v\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"alex-clare.html\" data-toolbar=\"-mbrBtnMove\">ALEX CLARE (UK)<br>27 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
+          "buttons": "     <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://spblivemusic.ru/white-lies-video.html#content5-2r\" data-toolbar=\"-mbrBtnMove\">#СнимаемВместе<br>White Lies в СПб<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-3d\" data-toolbar=\"-mbrBtnMove\">на этой неделе<br>ALEX CLARE (UK)<br>27 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://spb.ponominalu.ru/event/motorama?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">в ближайший месяц<br>MOTORAMA (RU)<br>4 мая (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://spb.ponominalu.ru/event/three-days-grace?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">этим летом<br>THREE DAYS GRACE (CANADA)<br>13 июля (чт)<br></a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">впервые в СПб<br>RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
         },
         {
           "_inherit": "msg-box8",
@@ -112,19 +112,25 @@
             },
             ".mbr-section-title DIV": {
               "font-size": "30px"
+            },
+            ".lead DIV": {
+              "color": "#ffffff"
+            },
+            ".lead": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-1v",
+          "_anchor": "msg-box3-3d",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/white-lies-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/alex-clare-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -138,9 +144,9 @@
             "showText": true,
             "showButton": true
           },
-          "title": "White Lies (UK)<div>20.04 - A2</div>",
-          "text": "<p>Британская рок-группа White Lies выступит в Санкт-Петербурге 20 апреля.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Коллектив представит поклонникам свой новый, четвертый альбом Friends <a href=\"index.html#header3-1d\">(слушать)</a>.<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Концерт пройдет на площадке A2 Green Concert.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"index.html#content5-16\">Наши эксперты делятся впечатлениями после прослушивания альбома.</a></span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>СПб 20.04<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://ponominalu.ru/event/white-lies?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>МОСКВА 19.04<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"white-lies-video.html\" data-toolbar=\"-mbrBtnMove\">УЧАСТВОВАТЬ В<br>#СнимаемВместе<br></a>"
+          "title": "Alex Clare (UK)<div>27.04 - Зал Ожидания</div>",
+          "text": "Алекс Клэр — британский исполнитель и музыкант, удачно сочетающий в своем творчестве джаз и соул с такими стилями, как драм-н-басс и дабстеп.<div>Познакомиться со свежим материалом и послушать знакомые хиты можно будет в питерском клубе <i>Зал Ожидания</i>, которое состоится 27 апреля 2017 года в 20:00.&nbsp;</div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://spb.ponominalu.ru/event/alex-clare?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>СПб 27.04<br></a> "
         },
         {
           "_styles": {
@@ -237,7 +243,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"white-lies-video.html\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/white-lies-video.html#content5-2r\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -272,56 +278,13 @@
               "font-size": "19px"
             }
           },
-          "_anchor": "content2-14",
+          "_anchor": "content2-3e",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#232323"
           },
-          "text": "<blockquote>Трио White Lies было основано в 2007 году в Лондоне Гарри Маквеем, Чарльзом Кейвом и Джеком Лоуренсом-Брауном. В сентябре 2009 группа выступила на разогреве Coldplay перед наполовину пустым залом, но была неплохо принята как слушателями, так и критиками. В тот же год группа в категории <i>Прорыв года</i> была номинирована на премию MTV Europe Music Awards.</blockquote>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "text-align": "right"
-            },
-            "P": {
-              "font-size": "19px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-16",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
-          },
-          "title": "♀",
-          "caption": "<p>С момента выхода дебютного альбома прошло 8 лет. Некоторые вещи становятся лучше с годами, например, вино и сыр. Их вкус становится ярче и насыщеннее. Как и чувственность текстов White Lies.</p><p>В апреле этого года трио из восточного Лондона презентует новую пластинку <i>Friends</i> на сцене А2. Мы возлагаем большие надежды на этот концерт, ведь с выходом альбома можно смело заявлять: группа выработала собственный стиль, который зародился на предыдущей пластинке и теперь закреплен на новом альбоме.</p><p>Помимо индивидуальности, присущей <i>Friends</i>, он еще и окутан дурманящей реалией, которая близка каждому из нас. Речь идет не о несчастной любви или предательстве, крахе веры в себя, а о том, как мы теряем друзей. Женитьба, дети, карьера, переезд в другие города - жизненные ситуации, с которыми мы сталкиваемся взрослея и которые разводят нас с теми, о ком думалось «не разлей вода». Из-за постоянной занятости мы реже общаемся с друзьями. Однако стоит помнить, что можно не видеться месяцами и все равно поддерживать близкие отношениями. Альбом наполнен подобными мыслями, эмоциями, надеждами, потрясениями. Очарования сменяются разочарованиями, любовь страхами, дружба до гроба – расставаниями. И так до бесконечности.</p><p>Таким образом, в текстах White Lies каждый найдет себя. Да и классическая английская меланхолия всегда придется по душе. Альбом очень теплый, трогательный, душевный. Надеемся, таким будет и концерт в А2.</p>"
+          "text": "<blockquote>Алекс Клэр — британский исполнитель и музыкант, удачно сочетающий в своем творчестве джаз и соул с такими стилями, как драм-н-басс и дабстеп.</blockquote>"
         },
         {
           "_tags": [
@@ -331,33 +294,33 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "color": "#efefef",
-              "font-size": "19px"
+              "color": "#ffffff",
+              "font-size": "16px"
             },
             "H3": {
               "text-align": "center",
               "color": "#efefef"
             }
           },
-          "_anchor": "msg-box5-13",
+          "_anchor": "msg-box5-3f",
           "_params": {
-            "imageSize": "46",
-            "paddingTop": "0",
-            "paddingBottom": 0,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "imageSize": "54",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
             "bgColor": "#232323",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
+            "overlayColor": "#000000",
             "inverse": true,
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false
           },
@@ -367,7 +330,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=nCVirDkD1Fo",
+              "src": "https://www.youtube.com/watch?v=OuvdzBt64RQ",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
@@ -380,129 +343,7 @@
             }
           },
           "title": "♂",
-          "text": "<span style=\"line-height: 1.5;\">Альбом из 10 композиций открывает в меру динамичная и одновременно мелодичная </span><i style=\"line-height: 1.5;\">Take It Out on Me</i><span style=\"line-height: 1.5;\">. &nbsp;Сразу можно отметить, что звучание группы стало гораздо легче, чем во времена </span><i style=\"line-height: 1.5;\">Too Lose My Life</i><span style=\"line-height: 1.5;\">. Львиную долю саунда занимают синты, что ожидаемо после </span><i style=\"line-height: 1.5;\">Big TV</i><span style=\"line-height: 1.5;\">. White   Lies  удачно уловили нынешнюю тенденцию музыкантов звучать в духе 80-ых. Теперь это скорее синти-поп, а не альтернативный пост-панк.</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "P": {
-              "text-align": "right",
-              "font-size": "19px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-17",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000",
-            "showTitle": false,
-            "showCaption": true
-          },
-          "title": "",
-          "caption": "<p>Одной из сильных сторон работы (да и группы в целом) является концептуальность: альбом звучит холистично, а песни хорошо сбалансированы и выстроены. Мощные <i>Morning in LA </i>и<i> Hold Back Your Love</i>, атмосферная <i>Swing</i> и заключительная баллада <i>Don't Fall</i> - в трек-листе альбома всё стройно.&nbsp;</p><p>Пластинка слушается легко, ребята определённо хотели записать поп-альбом без претензий, и они это сделали. Слушая <i>Friends</i>, понимаешь, что не хватает чего-то нового и смелого: альбом кажется логичным продолжением предыдущих работ и не ставит задач покорить новые вершины. А потому лишь 11 место в родном чарте UK Albums против 4-ого с Big TV.</p><p>Если Вы слушаете инди или поп-музыку, если Вам близки такие исполнители, как Interpol, Editors, Arcade Fire или если Вам просто интересна качественная живая музыка, настоятельно рекомендуем к посещению!<br><span style=\"line-height: 1.5;\">А для тех, кто уже решил идти на концерт, напоминаем,</span></p><p>20 апреля (чт)<br><span style=\"line-height: 1.5;\">клуб A2<br></span><span style=\"line-height: 1.5;\">20:00<br></span><span style=\"line-height: 1.5;\">СПб, пр. Медиков, 3<br></span><span style=\"line-height: 1.5;\">ст. м. Петроградская<br><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет СПб</a></span></p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1d",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgColor": "#181818",
-            "showMeta": false
-          },
-          "title": "Слушать альбом:",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "font-size": "36px",
-              "text-align": "center",
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            },
-            "B": {
-              "color": "#553982"
-            }
-          },
-          "_anchor": "msg-box4-1l",
-          "_params": {
-            "imageSize": "58",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/z-9NAO4Ope8",
-              "aspectratio": "4:3",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Презентация альбома Friends",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Санкт-Петербург</b><font color=\"#232323\"><br></font></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20 апреля (чт)<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20:00<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">клуб A2<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">СПб, пр. Медиков, 3<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ст. м. Петроградская<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет СПб</a></span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\"><br></a></span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Участвовать в <a href=\"white-lies-video.html\">#СнимаемВместе</a><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\"><br></a></span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\"><br></a></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Москва</b><br>19 апреля (ср)<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20:00<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">КЗ Известия-Hall<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Москва, Пушкинская пл., 5<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ст. м. Пушкинская<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет Москва</a><br></span><br>",
+          "text": "27 апреля (чт)<br>20:00<br>клуб Зал Ожидания<br>СПб, Обводного канала наб., 118, лит. C<br>ст. м. Балтийская<br><a href=\"https://spb.ponominalu.ru/event/alex-clare?promote=timkopro\" target=\"_blank\">купить билет</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -638,7 +479,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"white-lies-video.html\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/white-lies-video.html#content5-2r\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -718,7 +559,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13336.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -789,7 +630,7 @@
             "showSubTitle": true
           },
           "title": "Оставьте Свой Email",
-          "subtitle": "Мы вышлем Вам всю необходимую информацию, как только дата концерта Raised by Swans в СПб будет зафиксирована.",
+          "subtitle": "Или напиши нам в любой социальной сети: <a href=\"https://vk.com/spblivemusicru\" target=\"_blank\">ВКонтакте</a>, <a href=\"https://www.facebook.com/spbLiveMusic/\" target=\"_blank\">Facebook</a>, <a href=\"https://instagram.com/spbLiveMusic\" target=\"_blank\">Instagram</a>,&nbsp;<a href=\"https://twitter.com/SpbLiveMusic\" target=\"_blank\">Twitter</a>.<br>Мы вышлем Вам всю необходимую информацию, как только дата концерта Raised by Swans в СПб будет зафиксирована.",
           "form": {
             "action": "live@timko.pro",
             "alerts": {
@@ -984,7 +825,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"white-lies-video.html\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/white-lies-video.html#content5-2r\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -1050,7 +891,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13336.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1267,7 +1108,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"white-lies-video.html\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/white-lies-video.html#content5-2r\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -1333,7 +1174,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13336.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1550,7 +1391,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"white-lies-video.html\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/white-lies-video.html#content5-2r\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -1616,7 +1457,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13336.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1726,7 +1567,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/alex-clare-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/alex-clare-2000x11257.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1839,7 +1680,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"white-lies-video.html\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/white-lies-video.html#content5-2r\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -1905,7 +1746,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13336.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2137,7 +1978,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"white-lies-video.html\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/white-lies-video.html#content5-2r\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -2206,6 +2047,513 @@
             }
           },
           "_anchor": "social-buttons1-2u",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": true,
+            "odnoklassniki": true
+          },
+          "text": "Поделиться этой страницей"
+        }
+      ]
+    },
+    "white-lies.html": {
+      "settings": {
+        "title": "spb Live Music - Правильная Живая Музыка в Санкт-Петербурге // spbLiveMusic.ru",
+        "meta_descr": "Информация и отчёты о самых интересных концертах в Санкт-Петербурге! White Lies spbLiveMusic.ru",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "46px"
+            },
+            ".mbr-section-lead": {
+              "color": "#efefef",
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff",
+              "font-size": "48px"
+            },
+            ".btn": {
+              "font-size": "14px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "18px",
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "header4-32",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/GjKvpVxA_ok?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<span style=\"font-weight: normal;\">spb Live Music</span>",
+          "text": "<span style=\"line-height: 1.5;\">Правильная живая музыка в Санкт-Петербурге</span><br><span style=\"line-height: 1.5;\"><br></span><br>В ближайшее время стоит посетить:&nbsp;",
+          "buttons": "    <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-1v\" data-toolbar=\"-mbrBtnMove\">WHITE LIES (UK)<br>20 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"alex-clare.html\" data-toolbar=\"-mbrBtnMove\">ALEX CLARE (UK)<br>27 апр (чт)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-33",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/white-lies-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "White Lies (UK)<div>20.04 - A2</div>",
+          "text": "<p>Британская рок-группа White Lies выступит в Санкт-Петербурге 20 апреля.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Коллектив представит поклонникам свой новый, четвертый альбом Friends <a href=\"index.html#header3-1d\">(слушать)</a>.<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Концерт пройдет на площадке A2 Green Concert.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"index.html#content5-16\">Наши эксперты делятся впечатлениями после прослушивания альбома.</a></span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>СПб 20.04<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://ponominalu.ru/event/white-lies?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>МОСКВА 19.04<br></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"white-lies-video.html\" data-toolbar=\"-mbrBtnMove\">УЧАСТВОВАТЬ В<br>#СнимаемВместе<br></a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#7181be!important"
+            },
+            ".btn": {
+              "font-size": "12px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-34",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/spblivemusiclogoalpha-2-581x128.png",
+              "height": 128,
+              "alt": "spb Live Music - Правильная Живая Музыка в СПб",
+              "link": "http://spblivemusic.ru",
+              "title": "spbLiveMusic.ru",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/white-lies-video.html#content5-2r\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 spbLiveMusic Timko Production"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#efefef"
+            },
+            "B": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "content2-36",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#232323"
+          },
+          "text": "<blockquote>Трио White Lies было основано в 2007 году в Лондоне Гарри Маквеем, Чарльзом Кейвом и Джеком Лоуренсом-Брауном. В сентябре 2009 группа выступила на разогреве Coldplay перед наполовину пустым залом, но была неплохо принята как слушателями, так и критиками. В тот же год группа в категории <i>Прорыв года</i> была номинирована на премию MTV Europe Music Awards.</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "center"
+            },
+            ".mbr-section-title I": {
+              "text-align": "right"
+            },
+            "P": {
+              "font-size": "19px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-37",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "♀",
+          "caption": "<p>С момента выхода дебютного альбома прошло 8 лет. Некоторые вещи становятся лучше с годами, например, вино и сыр. Их вкус становится ярче и насыщеннее. Как и чувственность текстов White Lies.</p><p>В апреле этого года трио из восточного Лондона презентует новую пластинку <i>Friends</i> на сцене А2. Мы возлагаем большие надежды на этот концерт, ведь с выходом альбома можно смело заявлять: группа выработала собственный стиль, который зародился на предыдущей пластинке и теперь закреплен на новом альбоме.</p><p>Помимо индивидуальности, присущей <i>Friends</i>, он еще и окутан дурманящей реалией, которая близка каждому из нас. Речь идет не о несчастной любви или предательстве, крахе веры в себя, а о том, как мы теряем друзей. Женитьба, дети, карьера, переезд в другие города - жизненные ситуации, с которыми мы сталкиваемся взрослея и которые разводят нас с теми, о ком думалось «не разлей вода». Из-за постоянной занятости мы реже общаемся с друзьями. Однако стоит помнить, что можно не видеться месяцами и все равно поддерживать близкие отношениями. Альбом наполнен подобными мыслями, эмоциями, надеждами, потрясениями. Очарования сменяются разочарованиями, любовь страхами, дружба до гроба – расставаниями. И так до бесконечности.</p><p>Таким образом, в текстах White Lies каждый найдет себя. Да и классическая английская меланхолия всегда придется по душе. Альбом очень теплый, трогательный, душевный. Надеемся, таким будет и концерт в А2.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#efefef",
+              "font-size": "19px"
+            },
+            "H3": {
+              "text-align": "center",
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "msg-box5-38",
+          "_params": {
+            "imageSize": "46",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#232323",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=nCVirDkD1Fo",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "♂",
+          "text": "<span style=\"line-height: 1.5;\">Альбом из 10 композиций открывает в меру динамичная и одновременно мелодичная </span><i style=\"line-height: 1.5;\">Take It Out on Me</i><span style=\"line-height: 1.5;\">. &nbsp;Сразу можно отметить, что звучание группы стало гораздо легче, чем во времена </span><i style=\"line-height: 1.5;\">Too Lose My Life</i><span style=\"line-height: 1.5;\">. Львиную долю саунда занимают синты, что ожидаемо после </span><i style=\"line-height: 1.5;\">Big TV</i><span style=\"line-height: 1.5;\">. White   Lies  удачно уловили нынешнюю тенденцию музыкантов звучать в духе 80-ых. Теперь это скорее синти-поп, а не альтернативный пост-панк.</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "right",
+              "font-size": "19px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-39",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "showTitle": false,
+            "showCaption": true
+          },
+          "title": "",
+          "caption": "<p>Одной из сильных сторон работы (да и группы в целом) является концептуальность: альбом звучит холистично, а песни хорошо сбалансированы и выстроены. Мощные <i>Morning in LA </i>и<i> Hold Back Your Love</i>, атмосферная <i>Swing</i> и заключительная баллада <i>Don't Fall</i> - в трек-листе альбома всё стройно.&nbsp;</p><p>Пластинка слушается легко, ребята определённо хотели записать поп-альбом без претензий, и они это сделали. Слушая <i>Friends</i>, понимаешь, что не хватает чего-то нового и смелого: альбом кажется логичным продолжением предыдущих работ и не ставит задач покорить новые вершины. А потому лишь 11 место в родном чарте UK Albums против 4-ого с Big TV.</p><p>Если Вы слушаете инди или поп-музыку, если Вам близки такие исполнители, как Interpol, Editors, Arcade Fire или если Вам просто интересна качественная живая музыка, настоятельно рекомендуем к посещению!<br><span style=\"line-height: 1.5;\">А для тех, кто уже решил идти на концерт, напоминаем,</span></p><p>20 апреля (чт)<br><span style=\"line-height: 1.5;\">клуб A2<br></span><span style=\"line-height: 1.5;\">20:00<br></span><span style=\"line-height: 1.5;\">СПб, пр. Медиков, 3<br></span><span style=\"line-height: 1.5;\">ст. м. Петроградская<br><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет СПб</a></span></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3a",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#181818",
+            "showMeta": false
+          },
+          "title": "Слушать альбом:",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#553982"
+            }
+          },
+          "_anchor": "msg-box4-3b",
+          "_params": {
+            "imageSize": "58",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/z-9NAO4Ope8",
+              "aspectratio": "4:3",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Презентация альбома Friends",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Санкт-Петербург</b><font color=\"#232323\"><br></font></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20 апреля (чт)<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20:00<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">клуб A2<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">СПб, пр. Медиков, 3<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ст. м. Петроградская<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет СПб</a></span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\"><br></a></span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Участвовать в <a href=\"white-lies-video.html\">#СнимаемВместе</a><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\"><br></a></span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://spb.ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\"><br></a></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Москва</b><br>19 апреля (ср)<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">20:00<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">КЗ Известия-Hall<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Москва, Пушкинская пл., 5<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ст. м. Пушкинская<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://ponominalu.ru/event/white-lies?promote=timkopro\" target=\"_blank\">купить билет Москва</a><br></span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "social-buttons1-3c",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
