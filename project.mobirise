@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "white-lies-video.html",
+    "currentPage": "index.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -284,7 +284,7 @@
             "paddingBottom": 1,
             "bgColor": "#232323"
           },
-          "text": "<blockquote>Алекс Клэр — британский исполнитель и музыкант, удачно сочетающий в своем творчестве джаз и соул с такими стилями, как драм-н-басс и дабстеп.</blockquote>"
+          "text": "<blockquote>Алекс Клэр — автор музыки к Internet Explorer и друг Эми Уайнхаус</blockquote><blockquote><p>Обаятельный бородач рос на джазовых песнях своего отца, который и привил ему любовь к этому стилю.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">С 16 лет Алекс начал играть в различных группах, исполняя в основном каверы, пока на фестивале Camden Crawl его не заметила звукозаписывающая компания Island. Музыканту на тот момент было 25 лет, и о нем пока никто толком не слышал. Однако это не помешало ему познакомиться в английском пабе с Эми Уайнхаус, которая была на пике славы. Они были вместе около года. Как признается Алекс, его дебютная пластинка «The Lateness Of The Hour» была своеобразным способом справиться с разрывом.</span></p></blockquote><blockquote><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Альбом получил множество положительных отзывов, а трек «Too close» очень быстро завоевал популярность и прочно закрепился в чартах по всему миру. Музыканта приглашали на различные мероприятия, но Алекс очень твердо следовал религиозным правилам, запрещающим развлечения по субботам. Для лейбла это значило, что альбом не получит достаточной поддержки, что вело к убыткам, и поэтому Island прекратили сотрудничество с музыкантом.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Клэр оказался в непростом финансовом положении, пока к нему не обратились Microsoft, которые собирались использовать «Too Close» для рекламной кампании Internet Explorer. Алекс согласился, и через считанные дни он уже был известен всему миру.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">В 2015 году Клэр вместе с другом сели в лодку и отправились в путешествие по реке Ли, где буквально за несколько недель записали новый альбом «Tail of Lions».</span></p></blockquote>"
         },
         {
           "_tags": [
@@ -559,7 +559,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133316.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133318.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -891,7 +891,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133316.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133318.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1174,7 +1174,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133316.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133318.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1457,7 +1457,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133316.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133318.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1567,7 +1567,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/alex-clare-2000x112517.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/alex-clare-2000x112519.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1746,7 +1746,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133316.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133318.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
