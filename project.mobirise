@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "white-lies-video.html",
+    "currentPage": "raised-by-swans.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -380,7 +380,7 @@
     },
     "raised-by-swans.html": {
       "settings": {
-        "title": "Концерт Raised By Swans (Канада) впервые в Санкт-Петербурге!",
+        "title": "Концерт Raised By Swans (Канада) впервые в Санкт-Петербурге! #spbLiveMusic #RaisedBySwansSpb",
         "meta_descr": "Более подробная информация на spbLiveMusic.pro"
       },
       "components": [
@@ -559,7 +559,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -891,7 +891,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13330.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1174,7 +1174,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13330.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1457,7 +1457,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13330.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1567,7 +1567,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/alex-clare-2000x11253.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/alex-clare-2000x11251.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1746,7 +1746,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13330.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
