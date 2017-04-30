@@ -448,25 +448,6 @@ h6,
   font-size: 18px;
   color: #efefef;
 }
-#msg-box3-3d .mbr-section-title,
-#msg-box3-3d p {
-  color: #000;
-}
-#msg-box3-3d .mbr-section-title {
-  color: #ffffff;
-}
-#msg-box3-3d .lead P {
-  color: #ffffff;
-}
-#msg-box3-3d .mbr-section-title DIV {
-  font-size: 30px;
-}
-#msg-box3-3d .lead DIV {
-  color: #ffffff;
-}
-#msg-box3-3d .lead {
-  color: #ffffff;
-}
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -533,18 +514,12 @@ h6,
   font-size: 12px;
   font-family: 'Oswald', sans-serif;
 }
-#content2-3e BLOCKQUOTE {
-  color: #efefef;
-}
-#content2-3e B {
-  font-size: 19px;
-}
-#msg-box5-3f P {
+#msg-box5-3h P {
   text-align: left;
   color: #ffffff;
   font-size: 16px;
 }
-#msg-box5-3f H3 {
+#msg-box5-3h H3 {
   text-align: center;
   color: #efefef;
 }
