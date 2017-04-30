@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "raised-by-swans.html",
+    "currentPage": "white-lies-video.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 124,
+    "uniqCompNum": 125,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96-128x128-6.png",
     "noImageResize": "",
@@ -243,7 +243,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/white-lies-video.html#content5-2r\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/white-lies-video.html#content5-2r\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-1v\" style=\"text-align: left; display: inline !important;\">WHITE LIES (20.04 чт)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alex-clare.html\">ALEX CLARE (27.04 ср)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -1881,7 +1881,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">#СнимаемВместе</span>",
           "text": "Сохраним на память концерт White Lies в Санкт-Петербурге совместными усилиями.<br><br>С вас – видосы, снятые на концерте,<br>С нас – сведение воедино материала с десятков или сотен мобильных камер!<br><br>",
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"white-lies-video.html#content5-2r\" data-toolbar=\"-mbrBtnMove\">УЧАСТВОВАТЬ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"white-lies.html\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ<br>О WHITE LIES<br></a>  "
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"white-lies-video.html#content5-2r\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ<br>ГОТОВОЕ ВИДЕО<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"white-lies.html\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ<br>О WHITE LIES<br></a>  "
         },
         {
           "_styles": {
@@ -2001,42 +2001,64 @@
           "text": "Copyright (c) 2017 spbLiveMusic Timko Production"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "P": {
-              "text-align": "center",
-              "font-size": "20px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-2r",
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            "H3": {
+              "text-align": "center",
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "msg-box5-3g",
           "_params": {
+            "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1298.jpg",
-            "bgColor": "#fff",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/-43LKfBRhY4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
           },
-          "title": "",
-          "caption": "<p>Мы уже начали монтаж (<a href=\"https://youtu.be/-43LKfBRhY4\" target=\"_blank\">смотрите первый ролик</a>), но нам катастрофически не хватает материала.<br>Поддержи #СнимаемВместе!</p><p><span style=\"line-height: 1.5;\">У тебя есть видео с концерта White Lies в СПб? Качество звука неважно!<br>Загружай ролики на <a href=\"https://disk.yandex.ru\" target=\"_blank\">Яндекс.Диск</a>, <a href=\"https://drive.google.com/\" target=\"_blank\">Google Drive</a> или <a href=\"http://dropmefiles.com/\" target=\"_blank\">dropmefiles.com</a>&nbsp;(без регистрации) до 25 апреля;<br>Можно отправлять через <a href=\"https://t.me/joinchat/AAAAAAxoWyEnP9Q7la8ifA\" target=\"_blank\">telegram</a>&nbsp;как файл.</span></p><p><span style=\"line-height: 1.5;\">Отправляй ссылку на <a href=\"mailto:whitelies@spbLiveMusic.ru\">WhiteLies@spbLiveMusic.ru</a>&nbsp;или в любой соц. сети и жди смонтированное видео.</span></p><p><span style=\"line-height: 1.5;\">Любые видео с концерта подойдут: крупный план, дальний план, селфи... Ведь чем интереснее и разнообразнее будут ролики, тем круче будет конечный результат!</span><br></p><p>Обязательно <a href=\"#bottom\">поделитесь этой страницей </a>с друзьями, которые были на концерте, - чем больше людей участвует, тем интереснее будет результат.</p><p><span style=\"line-height: 1.5;\">Финальное видео будет предназначено только для домашнего просмотра.<br></span><span style=\"line-height: 1.5;\">Мы добавим твоё имя в титры и описание к видео!</span></p><p><br></p>"
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/eCh7rgiQkjQ",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "♂",
+          "text": "<b>Подводим итоги первого флешмоба в рамках проекта #СнимаемВместе.</b><br><br>Это был уникальный опыт, и сейчас мы с уверенностью можем сказать, что первая попытка удалась.<br>Огромное спасибо всем, кто принял участие и поделился своими материалами!&nbsp;Благодаря вам стало возможным различить эмоции Гарри, экспрессию Джека и настроение Чарльза.<br><br>Однако, нам есть к чему стремиться: в следующий раз нас будет больше, а результат – ещё лучше.<br><br>Монтаж завершён, и финальное <a href=\"https://youtu.be/eCh7rgiQkjQ\" target=\"_blank\">видео доступно</a> для просмотра*. Это стало возможно только благодаря вам!<br><br>Надеемся, что впереди у нас много подобных совместных подвигов. Присоединяйтесь, если Вам небезразлична живая музыка!<br><br><br>*Финальное видео предназначено только для домашнего просмотра.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
