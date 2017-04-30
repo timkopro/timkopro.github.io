@@ -32,7 +32,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "spb Live Music - Правильная Живая Музыка в Санкт-Петербурге // spbLiveMusic.ru",
+        "title": "Финальное Видео #СнимаемВместе - spb Live Music - Правильная Живая Музыка в Санкт-Петербурге // spbLiveMusic.ru",
         "meta_descr": "Информация и отчёты о самых интересных концертах в Санкт-Петербурге! spbLiveMusic.ru",
         "header_custom": "",
         "footer_custom": "",
@@ -1952,7 +1952,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
