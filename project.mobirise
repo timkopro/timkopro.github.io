@@ -655,7 +655,7 @@
             "showText": true,
             "showButton": true
           },
-          "title": "ИвАново Детство (СПб)<div>31.05 - Космонавт</div>",
+          "title": "ИвАново Детство<div>31.05 - Космонавт</div>",
           "text": "<p>Питерская премьера сольного проекта солиста Торба-на-Круче Макса Иванова. Долгожданные акустические песни в полноценном электрическом звуке.&nbsp;</p><p>Приходите и участвуйте во флешмобе <a href=\"torba-na-kruche.html#content2-21\">#СнимаемВместе</a>!</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://spb.ponominalu.ru/event/max-ivanov?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>СПб 31.05<br></a> "
         },
@@ -1952,7 +1952,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13336.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
