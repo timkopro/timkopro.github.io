@@ -96,7 +96,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">spb Live Music</span>",
           "text": "<span style=\"line-height: 1.5;\">Правильная живая музыка в Санкт-Петербурге</span><br><span style=\"line-height: 1.5;\"><br></span><br>Стоит обратить внимание:&nbsp;",
-          "buttons": "     <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#msg-box5-3h\" data-toolbar=\"-mbrBtnMove\">#СнимаемВместе<br>White Lies в СПб<br></a>     <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">впервые в СПб<br>RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
+          "buttons": "     <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#msg-box5-3h\" data-toolbar=\"-mbrBtnMove\">СнимаемВместе<br>WHITE LIES<br>итоги<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"torba-na-kruche.html\" data-toolbar=\"-mbrBtnMove\">Макс Иванов<br>(Торба-На-Круче)<br>31.05 (СР)<br></a>     <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">впервые в СПб<br>RAISED BY SWANS (CANADA)<br>осень 2017<br></a> "
         },
         {
           "_styles": {
@@ -193,7 +193,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCCY2X1tJ2CCzSnLNsXWW21g\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-3h\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCCY2X1tJ2CCzSnLNsXWW21g\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-3h\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">МАКС ИВАНОВ (ТОРБА-НА-КРУЧЕ) - 31.05</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS - 2017 осень</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -655,9 +655,9 @@
             "showText": true,
             "showButton": true
           },
-          "title": "Торба-на-Круче (СПб)<div>11.04 - Космонавт</div>",
-          "text": "<p>11 апреля с ежегодной традиционной <b>АЛЬТ</b>ернативной праздничной программой на сцене клуба Космонавт выступит Торба-на-Круче. Для торжества выбран самый важный из существующих поводов, День Рождения, который будет отмечать самый поющий человек в составе группы, Макс ИвАнов.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://spb.ponominalu.ru/event/torba-na-kryche?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>СПб 11.04<br></a> "
+          "title": "ИвАново Детство (СПб)<div>31.05 - Космонавт</div>",
+          "text": "<p>Питерская премьера сольного проекта солиста Торба-на-Круче Макса Иванова. Долгожданные акустические песни в полноценном электрическом звуке.</p><p>Приходите и участвуйте во флешмобе <a href=\"torba-na-kruche.html#content2-21\">#СнимаемВместе</a>!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://spb.ponominalu.ru/event/max-ivanov?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>СПб 31.05<br></a> "
         },
         {
           "_styles": {
@@ -754,7 +754,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCCY2X1tJ2CCzSnLNsXWW21g\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-3h\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS (2017 осень)</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCCY2X1tJ2CCzSnLNsXWW21g\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://t.me/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-telegram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/spbLiveMusic/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://vk.com/spblivemusicru\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://twitter.com/SpbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/spbLiveMusic\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://spblivemusic.ru/radio\" aria-expanded=\"false\" target=\"_blank\">РАДИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-3h\" aria-expanded=\"false\">#СНИМАЕМВМЕСТЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">АФИША СПб</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">МАКС ИВАНОВ (ТОРБА-НА-КРУЧЕ) - 31.05</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"raised-by-swans.html\">RAISED BY SWANS - 2017 осень</a><br></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\"><span class=\"socicon socicon-sharethis mbr-iconfont mbr-iconfont-btn\"></span>ПОДЕЛИТЬСЯ</a></li>"
         },
         {
           "_tags": [
@@ -795,7 +795,7 @@
             "paddingBottom": 1,
             "bgColor": "#232323"
           },
-          "text": "<blockquote>Торба-на-Круче — российская рок-группа, существует с 1998 года. Бессменный лидер — Макс Иванов. Группа неоднократно принимала участие в фестивалях <i>Окна открой!</i>, <i>Нашествие</i>, <i>Соседний мир</i>, <i>Крылья</i> и других.</blockquote>"
+          "text": "<blockquote><p>Мы сделали это первый раз на концерте <a href=\"index.html#msg-box5-3h\">White Lies</a>. На этот раз мы планируем сделать всё ещё лучше!</p><p>Подробности флешмоба появятся здесь в ближайшее время!</p></blockquote>"
         },
         {
           "_tags": [
@@ -841,7 +841,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=aQBgPf4oTiw",
+              "src": "https://www.youtube.com/watch?v=D3kCWPQ0ixM",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
@@ -854,7 +854,7 @@
             }
           },
           "title": "♂",
-          "text": "11 апреля (вт)<br>20:00<br>клуб Космонавт<br>СПб,&nbsp;Бронницкая ул., 24<br>ст. м. Технологический Институт<br><a href=\"https://spb.ponominalu.ru/event/torba-na-kryche?promote=timkopro\" target=\"_blank\">купить билет</a><br>",
+          "text": "31 мая (ср)<br>20:00<br>клуб Космонавт<br>СПб,&nbsp;Бронницкая ул., 24<br>ст. м. Технологический Институт<br><a href=\"https://spb.ponominalu.ru/event/torba-na-kryche?promote=timkopro\" target=\"_blank\">купить билет</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1952,7 +1952,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13330.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
