@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "torba-na-kruche.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -791,8 +791,8 @@
           },
           "_anchor": "content2-21",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgColor": "#232323"
           },
           "text": "<blockquote><p>Мы сделали это первый раз на концерте <a href=\"index.html#msg-box5-3h\">White Lies</a>. На этот раз мы планируем сделать всё ещё лучше!</p><p>Подробности флешмоба появятся здесь в ближайшее время!</p></blockquote>"
@@ -1952,7 +1952,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13333.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
