@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "torba-na-kruche.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -854,7 +854,7 @@
             }
           },
           "title": "♂",
-          "text": "31 мая (ср)<br>20:00<br>клуб Космонавт<br>СПб,&nbsp;Бронницкая ул., 24<br>ст. м. Технологический Институт<br><a href=\"https://spb.ponominalu.ru/event/torba-na-kryche?promote=timkopro\" target=\"_blank\">купить билет</a><br>",
+          "text": "31 мая (ср)<br>20:00<br>клуб Космонавт<br>СПб,&nbsp;Бронницкая ул., 24<br>ст. м. Технологический Институт<br><a href=\"https://spb.ponominalu.ru/event/max-ivanov?promote=timkopro\" target=\"_blank\">купить билет</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1952,7 +1952,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
