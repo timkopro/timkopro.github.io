@@ -656,7 +656,7 @@
             "showButton": true
           },
           "title": "ИвАново Детство<div>31.05 - Космонавт</div>",
-          "text": "<p>Питерская премьера сольного проекта солиста Торба-на-Круче Макса Иванова. Долгожданные акустические песни в полноценном электрическом звуке.&nbsp;</p><p>Приходите и участвуйте во флешмобе <a href=\"torba-na-kruche.html#content2-21\">#СнимаемВместе</a>!</p>",
+          "text": "<p>Питерская премьера сольного проекта солиста Торба-на-Круче Макса Иванова. Долгожданные акустические песни в полноценном электрическом звуке.&nbsp;</p><p>Приходите и участвуйте во флешмобе вместе с нами.<br>Подробности в чате telegram - <a href=\"https://t.me/joinchat/AAAAAA1K2LFNrTckwN7AoQ\">присоединяйтесь</a>!</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://spb.ponominalu.ru/event/max-ivanov?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>СПб 31.05<br></a> "
         },
         {
@@ -795,7 +795,7 @@
             "paddingBottom": "3",
             "bgColor": "#232323"
           },
-          "text": "<blockquote><p>Мы сделали это первый раз на концерте <a href=\"index.html#msg-box5-3h\">White Lies</a>. На этот раз мы планируем сделать всё ещё лучше! Тем более название новой пластинки располагает.</p><p>Подробности флешмоба <i>#СнимаемВместе - Вся Жизнь На Плёнке </i>появятся здесь в ближайшее время.</p></blockquote>"
+          "text": "<blockquote><p>Мы получили огромное удовольствие, когда проводили последний флешмоб на концерте <a href=\"index.html#msg-box5-3h\">White Lies</a>. На этот раз мы планируем сделать всё ещё интереснее!</p><p>Подробности флешмоба <i>Вся Жизнь На Плёнке </i>появятся в <a href=\"https://t.me/joinchat/AAAAAA1K2LFNrTckwN7AoQ\" target=\"_blank\">чате telegram</a> в ближайшее время.</p></blockquote>"
         },
         {
           "_tags": [
@@ -1952,7 +1952,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13330.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
