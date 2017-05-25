@@ -656,7 +656,7 @@
             "showButton": true
           },
           "title": "ИвАново Детство<div>31.05 - Космонавт</div>",
-          "text": "<p>Питерская премьера сольного проекта солиста Торба-на-Круче Макса Иванова. Долгожданные акустические песни в полноценном электрическом звуке.&nbsp;</p><p>Приходите и участвуйте во флешмобе вместе с нами.<br>Подробности в чате telegram - <a href=\"https://t.me/joinchat/AAAAAA1K2LFNrTckwN7AoQ\">присоединяйтесь</a>!</p>",
+          "text": "<p>Питерская премьера сольного проекта солиста Торба-на-Круче Макса Иванова. Долгожданные акустические песни в полноценном электрическом звуке.&nbsp;</p><p><b><a href=\"https://t.me/joinchat/AAAAAA1K2LFNrTckwN7AoQ\">Вступай в чат telegram</a>&nbsp;- участвуй во флешмобе!</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://spb.ponominalu.ru/event/max-ivanov?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>СПб 31.05<br></a> "
         },
         {
@@ -775,27 +775,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 spbLiveMusic Timko Production"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "color": "#efefef"
-            },
-            "B": {
-              "font-size": "19px"
-            }
-          },
-          "_anchor": "content2-21",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgColor": "#232323"
-          },
-          "text": "<blockquote><p>Мы получили огромное удовольствие, когда проводили последний флешмоб на концерте <a href=\"index.html#msg-box5-3h\">White Lies</a>. На этот раз мы планируем сделать всё ещё интереснее!</p><p>Подробности флешмоба <i>Вся Жизнь На Плёнке </i>появятся в <a href=\"https://t.me/joinchat/AAAAAA1K2LFNrTckwN7AoQ\" target=\"_blank\">чате telegram</a> в ближайшее время.</p></blockquote>"
         },
         {
           "_tags": [
