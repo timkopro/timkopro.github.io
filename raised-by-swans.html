@@ -7,11 +7,28 @@
 	    var OneSignal = window.OneSignal || [];
 	    OneSignal.push(["init", {
 	      appId: "13406589-fb6b-4fec-916d-5347ed96a04e",
-	      autoRegister: true,
+	      autoRegister: false,
 	      notifyButton: {
 	        enable: true /* Set to false to hide */
+		size: 'large', /* One of 'small', 'medium', or 'large' */
+		position: 'bottom-right', /* Either 'bottom-left' or 'bottom-right' */ 
+		prenotify: true, /* Show an icon with 1 unread message for first-time site visitors */
+ 	        text: {
+            'tip.state.unsubscribed': 'Подпишись и мы будем держать тебя в курсе!',
+            'tip.state.subscribed': "Подписка активна!",
+            'tip.state.blocked': "Подписку отменена :(",
+            'message.prenotify': 'Подпишись и мы будем держать тебя в курсе!',
+            'message.action.subscribed': "Спасибо за подписку!",
+            'message.action.resubscribed': "Подписка активна!",
+            'message.action.unsubscribed': "Подписку отменена :(",
+            'dialog.main.title': 'Настройки подписки',
+            'dialog.main.button.subscribe': 'ПОДПИСАТЬСЯ!',
+            'dialog.main.button.unsubscribe': 'отписаться :(',
+            'dialog.blocked.title': 'Разблокировать уведомления',
+            'dialog.blocked.message': "Следуйте инструкции, чтобы разблокировать уведомления:"
 	      }
 	    }]);
+		  
 	  </script>
   <!-- Site made with Mobirise Website Builder v3.12.1, https://mobirise.com -->
   <meta charset="UTF-8">
