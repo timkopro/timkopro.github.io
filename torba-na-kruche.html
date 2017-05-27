@@ -5,12 +5,11 @@
 	  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
 	  <script>
 	    var OneSignal = window.OneSignal || [];
-		  OneSignal.showHttpPrompt();
 	    OneSignal.push(["init", {
 	      appId: "13406589-fb6b-4fec-916d-5347ed96a04e",
 	      autoRegister: false,
 	      notifyButton: {
-	        enable: false /* Set to false to hide */
+	        enable: true /* Set to false to hide */
 	      }
 	    }]);
 		  
