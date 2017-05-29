@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "torba-na-kruche.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -656,7 +656,7 @@
             "showButton": true
           },
           "title": "ИвАново Детство<div>31.05 - Космонавт</div>",
-          "text": "<p>Питерская премьера сольного проекта солиста Торба-на-Круче Макса Иванова. Долгожданные акустические песни в полноценном электрическом звуке.&nbsp;</p><p><b>&gt;&gt;<a href=\"https://t.me/joinchat/AAAAAA1K2LFNrTckwN7AoQ\">Присоединяйся к флешмобу!</a>&lt;&lt;</b></p>",
+          "text": "<p><br></p><p><b>spbLiveMusic и <a href=\"https://vk.com/slavnoe_sborische\" target=\"_blank\">Славное Сборище</a>&nbsp;проводят совместный флешмоб #СнимаемВместе!</b></p><p><b>Снимем видео совместными усилиями в подарок группе! Правила просты:</b></p><p><b>1) Сними песню \"Вся Жизнь на Плёнке\" (качество звука не имеет значения)<br>2) Загрузи видео на Яндекс.Диск, Google Drive или отправь прямо через <a href=\"https://t.me/joinchat/AAAAAA1K2LFNrTckwN7AoQ\" target=\"_blank\">telegram</a>!<br>3) Отправь ссылку на <a href=\"mailto:torba@spbLiveMusic.ru\">torba@spbLiveMusic.ru</a></b></p><p><b>И всё \u001f– ждите готовое видео!</b></p><p><b>&gt;&gt;<a href=\"https://t.me/joinchat/AAAAAA1K2LFNrTckwN7AoQ\">Участвовать во флешмобе!</a>&lt;&lt;</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://spb.ponominalu.ru/event/max-ivanov?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>СПб 31.05<br></a> "
         },
         {
@@ -1931,7 +1931,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
