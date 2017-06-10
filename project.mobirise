@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "torba-na-kruche.html",
+    "currentPage": "index.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -272,7 +272,7 @@
             }
           },
           "title": "♂",
-          "text": "<b>Видео со второго концерта в рамках проекта #СнимаемВместе готово!</b><br><br>Огромное спасибо всем, кто принял участие и поделился своими материалами!&nbsp;Благодаря вам мы смогли запечатлить дебют замечательной группы ИвАново Детство.<br><br>Монтаж завершён, и финальное <a href=\"https://youtu.be/eCh7rgiQkjQ\" target=\"_blank\">видео доступно</a> для просмотра*. Это стало возможно только благодаря вам!&nbsp;<br><br>Ждём ваши комментарии на нашем <a href=\"https://www.youtube.com/channel/UCCY2X1tJ2CCzSnLNsXWW21g\" target=\"_blank\">YouTube канале</a>.<br><br>Надеемся, что впереди у нас много подобных совместных подвигов. Присоединяйтесь, если Вам небезразлична живая музыка!<br><br><br>* &nbsp;Финальное видео предназначено только для домашнего просмотра.<br>",
+          "text": "<b>Видео со второго концерта в рамках проекта #СнимаемВместе готово!</b><br><br>Огромное спасибо всем, кто принял участие и поделился своими материалами!&nbsp;Благодаря вам мы смогли запечатлить дебют замечательной группы ИвАново Детство.<br><br>Монтаж завершён, и финальное <a href=\"https://youtu.be/efgsVvd-2U0\" target=\"_blank\">видео доступно</a> для просмотра*. Это стало возможно только благодаря вам!&nbsp;<br><br>Ждём ваши комментарии на нашем <a href=\"https://www.youtube.com/channel/UCCY2X1tJ2CCzSnLNsXWW21g\" target=\"_blank\">YouTube канале</a>.<br><br>Надеемся, что впереди у нас много подобных совместных подвигов. Присоединяйтесь, если Вам небезразлична живая музыка!<br><br><br>* &nbsp;Финальное видео предназначено только для домашнего просмотра.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1931,7 +1931,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
