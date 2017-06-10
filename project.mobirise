@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "raised-by-swans.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -461,7 +461,7 @@
             "showButtons": true
           },
           "title": "Raised By Swans<br>",
-          "text": "<br>Отличные новости!&nbsp;<span style=\"line-height: 1.5;\">Осенью 2017 впервые в Санкт-Петербурге состоится концерт замечательного канадского исполнителя Эрика Хоудена (Raised By Swans).</span><br><br>Оставьте свой email, и мы обязательно свяжемся с Вами, как только дата концерта будет зафиксирована.<br>",
+          "text": "<br>Отличные новости!&nbsp;<span style=\"line-height: 1.5;\">Мы готовимся устроить первый в Санкт-Петербурге концерт замечательного канадского исполнителя Эрика Хоудена (Raised By Swans).</span><br><br>Оставьте свой email, и мы обязательно свяжемся с Вами, как только дата концерта будет зафиксирована.<br>",
           "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"raised-by-swans.html#msg-box7-n\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"raised-by-swans.html#form2-o\" data-toolbar=\"-mbrBtnMove\">Я ХОЧУ ПОЙТИ</a>"
         },
         {
@@ -1931,7 +1931,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
