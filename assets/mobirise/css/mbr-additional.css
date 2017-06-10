@@ -1380,3 +1380,96 @@ h6,
 #social-buttons1-3m .mbr-section-title {
   font-size: 36px;
 }
+
+
+#msg-box3-3n .mbr-section-title,
+#msg-box3-3n p {
+  color: #000;
+}
+#msg-box3-3n .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-3n .lead P {
+  color: #ffffff;
+}
+#msg-box3-3n .mbr-section-title DIV {
+  font-size: 30px;
+}
+#menu-3o .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3o .navbar-caption {
+  color: #ffffff;
+}
+#menu-3o .navbar-toggler {
+  color: #ffffff;
+}
+#menu-3o .close-icon::before,
+#menu-3o .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-3o .link,
+#menu-3o .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-3o .link {
+  font-size: 0.8rem;
+}
+#menu-3o .dropdown-item,
+#menu-3o .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-3o .link:hover,
+#menu-3o .dropdown-item:hover,
+#menu-3o .link:focus,
+#menu-3o .dropdown-item:focus {
+  color: #7181be;
+}
+#menu-3o .link[aria-expanded="true"],
+#menu-3o .dropdown-menu {
+  background: #000000;
+}
+#menu-3o .nav-dropdown-sm .link:focus,
+#menu-3o .nav-dropdown-sm .link:hover,
+#menu-3o .nav-dropdown-sm .dropdown-item:focus,
+#menu-3o .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-3o .navbar,
+#menu-3o .nav-dropdown-sm,
+#menu-3o .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3o .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-3o .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-3o .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3o .bg-color.transparent.opened .link:hover,
+#menu-3o .bg-color.transparent.opened .link:focus {
+  color: #7181be;
+}
+#menu-3o .link[aria-expanded="true"],
+#menu-3o .dropdown-item[aria-expanded="true"] {
+  color: #7181be!important;
+}
+#menu-3o .btn {
+  font-size: 12px;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box5-3q P {
+  text-align: left;
+  color: #ffffff;
+  font-size: 16px;
+}
+#msg-box5-3q H3 {
+  text-align: center;
+  color: #efefef;
+}
+#social-buttons1-3r .mbr-section-title {
+  font-size: 36px;
+}
