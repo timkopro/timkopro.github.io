@@ -96,7 +96,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">spb Live Music</span>",
           "text": "<span style=\"line-height: 1.5;\">Правильная живая музыка в Санкт-Петербурге</span><br><span style=\"line-height: 1.5;\"><br></span><br>Стоит обратить внимание:&nbsp;",
-          "buttons": "     <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#msg-box5-3h\" data-toolbar=\"-mbrBtnMove\">#СнимаемВместе<br>ИвАново Детство<br>итоги<br></a>      <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"royksopp.html\" data-toolbar=\"-mbrBtnMove\">RÖYKSOPP<br>stadium (москва)<br>17.06 (СБ)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"torba-na-kruche.html\" data-toolbar=\"-mbrBtnMove\">ТОРБА-НА-КРУЧЕ<br>aurora concert hall<br>22.06 (СР)<br></a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">Ш.И.В.А<br>union bar<br>29.06 (ЧТ) FREE<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">впервые в СПб<br>RAISED BY SWANS<br>(CANADA)<br></a> "
+          "buttons": "     <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#msg-box5-3h\" data-toolbar=\"-mbrBtnMove\">#СнимаемВместе<br>ИвАново Детство<br>итоги<br></a>      <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"royksopp.html\" data-toolbar=\"-mbrBtnMove\">RÖYKSOPP<br>stadium (москва)<br>17.06 (СБ)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"torba-na-kruche.html\" data-toolbar=\"-mbrBtnMove\">ТОРБА-НА-КРУЧЕ<br>aurora concert hall<br>22.06 (СР)<br></a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"shiva.html\" data-toolbar=\"-mbrBtnMove\">Ш.И.В.А<br>union bar<br>29.06 (ЧТ) FREE<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"raised-by-swans.html\" data-toolbar=\"-mbrBtnMove\">впервые в СПб<br>RAISED BY SWANS<br>(CANADA)<br></a> "
         },
         {
           "_styles": {
@@ -1931,7 +1931,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13337.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
