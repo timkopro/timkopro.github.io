@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "royksopp.html",
     "name": "spblivemusic.ru",
     "theme": {
       "name": "mobirise3",
@@ -1931,7 +1931,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13339.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2557,7 +2557,7 @@
             "showButton": true
           },
           "title": "Röyksopp<div>17.06 - Stadium (мск)</div>",
-          "text": "<p><b>В России Röyksopp всегда пользовались повышенным вниманием и преданной любовью. Их мелодизм, меланхолия и мечты о космосе пришлись нам по душе: старшему поколению сгладив тоску по группам Space, Zodiac, Pet Shop Boys, а новое, покорив «тем самым» судьбоносным ремиксом на «What Else Is There». Норвежский дуэт по праву называют звёздами танцевальной и электронной музыки благодаря таким хитам, как PoorLeno и Eple.</b></p><p><b><a href=\"#bottom\">Делитесь с друзьями!</a></b></p>",
+          "text": "<p><b>В России Röyksopp всегда пользовались повышенным вниманием и преданной любовью. Их мелодизм, меланхолия и мечты о космосе пришлись нам по душе: старшему поколению, сгладив тоску по группам Space, Zodiac, Pet Shop Boys, а новое, покорив «тем самым» судьбоносным ремиксом на «What Else Is There». Норвежский дуэт по праву называют звёздами танцевальной и электронной музыки благодаря таким хитам, как PoorLeno и Eple.</b></p><p><b><a href=\"#bottom\">Делитесь с друзьями!</a></b></p>",
           "button": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://ponominalu.ru/event/royksopp?promote=timkopro\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">КУПИТЬ БИЛЕТ<br>Москва 17.06 (СБ)<br></a> "
         },
         {
@@ -3258,7 +3258,7 @@
             }
           },
           "title": "♂",
-          "text": "<br>6-8 июля (чт-сб)<br>Бильбао, Испания<br>ст. м. Сокол<br><a href=\"https://ponominalu.ru/event/bilbao-bbk-live?promote=timkopro\" target=\"_blank\">купить билет</a><a href=\"https://spb.ponominalu.ru/event/torba-na-kryche?promote=timkopro\" target=\"_blank\"><br></a><br>",
+          "text": "<br>6-8 июля (чт-сб)<br>Бильбао, Испания<br><a href=\"https://ponominalu.ru/event/bilbao-bbk-live?promote=timkopro\" target=\"_blank\">купить билет</a><a href=\"https://spb.ponominalu.ru/event/torba-na-kryche?promote=timkopro\" target=\"_blank\"><br></a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
